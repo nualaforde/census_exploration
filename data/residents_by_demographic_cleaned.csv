@@ -1,0 +1,1562 @@
+date,sex,age_group,council_area_2019,main_client_group,number_of_people,council_area,financial_year
+2010-03-31,Female,18-64,S92000003,All Adults,2123,Scotland,2009/10
+2010-03-31,Female,65-74,S92000003,All Adults,1902,Scotland,2009/10
+2010-03-31,Female,75-84,S92000003,All Adults,7556,Scotland,2009/10
+2010-03-31,Female,85-94,S92000003,All Adults,10946,Scotland,2009/10
+2010-03-31,Female,95 and Older,S92000003,All Adults,2304,Scotland,2009/10
+2010-03-31,Male,18-64,S92000003,All Adults,2852,Scotland,2009/10
+2010-03-31,Male,65-74,S92000003,All Adults,1858,Scotland,2009/10
+2010-03-31,Male,75-84,S92000003,All Adults,3504,Scotland,2009/10
+2010-03-31,Male,85-94,S92000003,All Adults,2960,Scotland,2009/10
+2010-03-31,Male,95 and Older,S92000003,All Adults,354,Scotland,2009/10
+2011-03-31,Female,18-64,S92000003,All Adults,1954,Scotland,2010/11
+2011-03-31,Female,65-74,S92000003,All Adults,2078,Scotland,2010/11
+2011-03-31,Female,75-84,S92000003,All Adults,7655,Scotland,2010/11
+2011-03-31,Female,85-94,S92000003,All Adults,11347,Scotland,2010/11
+2011-03-31,Female,95 and Older,S92000003,All Adults,2214,Scotland,2010/11
+2011-03-31,Male,18-64,S92000003,All Adults,2393,Scotland,2010/11
+2011-03-31,Male,65-74,S92000003,All Adults,1774,Scotland,2010/11
+2011-03-31,Male,75-84,S92000003,All Adults,3373,Scotland,2010/11
+2011-03-31,Male,85-94,S92000003,All Adults,2907,Scotland,2010/11
+2011-03-31,Male,95 and Older,S92000003,All Adults,305,Scotland,2010/11
+2012-03-31,Female,18-64,S92000003,All Adults,1984,Scotland,2011/12
+2012-03-31,Female,65-74,S92000003,All Adults,2102,Scotland,2011/12
+2012-03-31,Female,75-84,S92000003,All Adults,7660,Scotland,2011/12
+2012-03-31,Female,85-94,S92000003,All Adults,10974,Scotland,2011/12
+2012-03-31,Female,95 and Older,S92000003,All Adults,2030,Scotland,2011/12
+2012-03-31,Male,18-64,S92000003,All Adults,2496,Scotland,2011/12
+2012-03-31,Male,65-74,S92000003,All Adults,1846,Scotland,2011/12
+2012-03-31,Male,75-84,S92000003,All Adults,3478,Scotland,2011/12
+2012-03-31,Male,85-94,S92000003,All Adults,2908,Scotland,2011/12
+2012-03-31,Male,95 and Older,S92000003,All Adults,297,Scotland,2011/12
+2013-03-31,Female,18-64,S92000003,All Adults,1751,Scotland,2012/13
+2013-03-31,Female,65-74,S92000003,All Adults,1928,Scotland,2012/13
+2013-03-31,Female,75-84,S92000003,All Adults,6958,Scotland,2012/13
+2013-03-31,Female,85-94,S92000003,All Adults,11191,Scotland,2012/13
+2013-03-31,Female,95 and Older,S92000003,All Adults,2207,Scotland,2012/13
+2013-03-31,Male,18-64,S92000003,All Adults,2198,Scotland,2012/13
+2013-03-31,Male,65-74,S92000003,All Adults,1813,Scotland,2012/13
+2013-03-31,Male,75-84,S92000003,All Adults,3362,Scotland,2012/13
+2013-03-31,Male,85-94,S92000003,All Adults,3171,Scotland,2012/13
+2013-03-31,Male,95 and Older,S92000003,All Adults,355,Scotland,2012/13
+2014-03-31,Female,18-64,S92000003,All Adults,1592,Scotland,2013/14
+2014-03-31,Female,65-74,S92000003,All Adults,1794,Scotland,2013/14
+2014-03-31,Female,75-84,S92000003,All Adults,6874,Scotland,2013/14
+2014-03-31,Female,85-94,S92000003,All Adults,11606,Scotland,2013/14
+2014-03-31,Female,95 and Older,S92000003,All Adults,2224,Scotland,2013/14
+2014-03-31,Male,18-64,S92000003,All Adults,2066,Scotland,2013/14
+2014-03-31,Male,65-74,S92000003,All Adults,1789,Scotland,2013/14
+2014-03-31,Male,75-84,S92000003,All Adults,3411,Scotland,2013/14
+2014-03-31,Male,85-94,S92000003,All Adults,3298,Scotland,2013/14
+2014-03-31,Male,95 and Older,S92000003,All Adults,358,Scotland,2013/14
+2015-03-31,Female,18-64,S92000003,All Adults,1652,Scotland,2014/15
+2015-03-31,Female,65-74,S92000003,All Adults,1756,Scotland,2014/15
+2015-03-31,Female,75-84,S92000003,All Adults,6684,Scotland,2014/15
+2015-03-31,Female,85-94,S92000003,All Adults,11263,Scotland,2014/15
+2015-03-31,Female,95 and Older,S92000003,All Adults,2330,Scotland,2014/15
+2015-03-31,Male,18-64,S92000003,All Adults,2062,Scotland,2014/15
+2015-03-31,Male,65-74,S92000003,All Adults,1764,Scotland,2014/15
+2015-03-31,Male,75-84,S92000003,All Adults,3377,Scotland,2014/15
+2015-03-31,Male,85-94,S92000003,All Adults,3187,Scotland,2014/15
+2015-03-31,Male,95 and Older,S92000003,All Adults,407,Scotland,2014/15
+2016-03-31,Female,18-64,S92000003,All Adults,1498,Scotland,2015/16
+2016-03-31,Female,65-74,S92000003,All Adults,1769,Scotland,2015/16
+2016-03-31,Female,75-84,S92000003,All Adults,6582,Scotland,2015/16
+2016-03-31,Female,85-94,S92000003,All Adults,11319,Scotland,2015/16
+2016-03-31,Female,95 and Older,S92000003,All Adults,2532,Scotland,2015/16
+2016-03-31,Male,18-64,S92000003,All Adults,2043,Scotland,2015/16
+2016-03-31,Male,65-74,S92000003,All Adults,1810,Scotland,2015/16
+2016-03-31,Male,75-84,S92000003,All Adults,3457,Scotland,2015/16
+2016-03-31,Male,85-94,S92000003,All Adults,3239,Scotland,2015/16
+2016-03-31,Male,95 and Older,S92000003,All Adults,489,Scotland,2015/16
+2017-03-31,Female,18-64,S92000003,All Adults,1463,Scotland,2016/17
+2017-03-31,Female,65-74,S92000003,All Adults,1791,Scotland,2016/17
+2017-03-31,Female,75-84,S92000003,All Adults,6288,Scotland,2016/17
+2017-03-31,Female,85-94,S92000003,All Adults,10992,Scotland,2016/17
+2017-03-31,Female,95 and Older,S92000003,All Adults,2575,Scotland,2016/17
+2017-03-31,Male,18-64,S92000003,All Adults,2069,Scotland,2016/17
+2017-03-31,Male,65-74,S92000003,All Adults,1790,Scotland,2016/17
+2017-03-31,Male,75-84,S92000003,All Adults,3463,Scotland,2016/17
+2017-03-31,Male,85-94,S92000003,All Adults,3181,Scotland,2016/17
+2017-03-31,Male,95 and Older,S92000003,All Adults,490,Scotland,2016/17
+2018-03-31,Female,18-64,S12000005,All Adults,41,Clackmannanshire,2017/18
+2018-03-31,Female,18-64,S12000006,All Adults,25,Dumfries and Galloway,2017/18
+2018-03-31,Female,18-64,S12000008,All Adults,35,East Ayrshire,2017/18
+2018-03-31,Female,18-64,S12000010,All Adults,5,East Lothian,2017/18
+2018-03-31,Female,18-64,S12000011,All Adults,26,East Renfrewshire,2017/18
+2018-03-31,Female,18-64,S12000013,All Adults,8,Na h-Eileanan Siar,2017/18
+2018-03-31,Female,18-64,S12000014,All Adults,39,Falkirk,2017/18
+2018-03-31,Female,18-64,S12000017,All Adults,97,Highland,2017/18
+2018-03-31,Female,18-64,S12000018,All Adults,40,Inverclyde,2017/18
+2018-03-31,Female,18-64,S12000019,All Adults,45,Midlothian,2017/18
+2018-03-31,Female,18-64,S12000020,All Adults,9,Moray,2017/18
+2018-03-31,Female,18-64,S12000021,All Adults,63,North Ayrshire,2017/18
+2018-03-31,Female,18-64,S12000026,All Adults,26,Scottish Borders,2017/18
+2018-03-31,Female,18-64,S12000028,All Adults,48,South Ayrshire,2017/18
+2018-03-31,Female,18-64,S12000029,All Adults,87,South Lanarkshire,2017/18
+2018-03-31,Female,18-64,S12000030,All Adults,31,Stirling,2017/18
+2018-03-31,Female,18-64,S12000033,All Adults,118,Aberdeen City,2017/18
+2018-03-31,Female,18-64,S12000034,All Adults,85,Aberdeenshire,2017/18
+2018-03-31,Female,18-64,S12000036,All Adults,57,City of Edinburgh,2017/18
+2018-03-31,Female,18-64,S12000038,All Adults,41,Renfrewshire,2017/18
+2018-03-31,Female,18-64,S12000040,All Adults,40,West Lothian,2017/18
+2018-03-31,Female,18-64,S12000041,All Adults,26,Angus,2017/18
+2018-03-31,Female,18-64,S12000042,All Adults,36,Dundee City,2017/18
+2018-03-31,Female,18-64,S12000045,All Adults,20,East Dunbartonshire,2017/18
+2018-03-31,Female,18-64,S12000047,All Adults,106,Fife,2017/18
+2018-03-31,Female,18-64,S12000048,All Adults,82,Perth and Kinross,2017/18
+2018-03-31,Female,18-64,S12000049,All Adults,187,Glasgow City,2017/18
+2018-03-31,Female,18-64,S12000050,All Adults,31,North Lanarkshire,2017/18
+2018-03-31,Female,18-64,S92000003,All Adults,1483,Scotland,2017/18
+2018-03-31,Female,65-74,S12000006,All Adults,43,Dumfries and Galloway,2017/18
+2018-03-31,Female,65-74,S12000008,All Adults,52,East Ayrshire,2017/18
+2018-03-31,Female,65-74,S12000010,All Adults,24,East Lothian,2017/18
+2018-03-31,Female,65-74,S12000011,All Adults,25,East Renfrewshire,2017/18
+2018-03-31,Female,65-74,S12000013,All Adults,9,Na h-Eileanan Siar,2017/18
+2018-03-31,Female,65-74,S12000014,All Adults,62,Falkirk,2017/18
+2018-03-31,Female,65-74,S12000017,All Adults,80,Highland,2017/18
+2018-03-31,Female,65-74,S12000018,All Adults,42,Inverclyde,2017/18
+2018-03-31,Female,65-74,S12000019,All Adults,22,Midlothian,2017/18
+2018-03-31,Female,65-74,S12000020,All Adults,25,Moray,2017/18
+2018-03-31,Female,65-74,S12000021,All Adults,46,North Ayrshire,2017/18
+2018-03-31,Female,65-74,S12000026,All Adults,20,Scottish Borders,2017/18
+2018-03-31,Female,65-74,S12000028,All Adults,52,South Ayrshire,2017/18
+2018-03-31,Female,65-74,S12000029,All Adults,114,South Lanarkshire,2017/18
+2018-03-31,Female,65-74,S12000033,All Adults,71,Aberdeen City,2017/18
+2018-03-31,Female,65-74,S12000034,All Adults,92,Aberdeenshire,2017/18
+2018-03-31,Female,65-74,S12000036,All Adults,113,City of Edinburgh,2017/18
+2018-03-31,Female,65-74,S12000038,All Adults,65,Renfrewshire,2017/18
+2018-03-31,Female,65-74,S12000039,All Adults,22,West Dunbartonshire,2017/18
+2018-03-31,Female,65-74,S12000040,All Adults,59,West Lothian,2017/18
+2018-03-31,Female,65-74,S12000041,All Adults,47,Angus,2017/18
+2018-03-31,Female,65-74,S12000042,All Adults,63,Dundee City,2017/18
+2018-03-31,Female,65-74,S12000045,All Adults,53,East Dunbartonshire,2017/18
+2018-03-31,Female,65-74,S12000047,All Adults,149,Fife,2017/18
+2018-03-31,Female,65-74,S12000048,All Adults,52,Perth and Kinross,2017/18
+2018-03-31,Female,65-74,S12000049,All Adults,250,Glasgow City,2017/18
+2018-03-31,Female,65-74,S12000050,All Adults,123,North Lanarkshire,2017/18
+2018-03-31,Female,65-74,S92000003,All Adults,1828,Scotland,2017/18
+2018-03-31,Female,75-84,S12000005,All Adults,60,Clackmannanshire,2017/18
+2018-03-31,Female,75-84,S12000006,All Adults,177,Dumfries and Galloway,2017/18
+2018-03-31,Female,75-84,S12000008,All Adults,166,East Ayrshire,2017/18
+2018-03-31,Female,75-84,S12000010,All Adults,96,East Lothian,2017/18
+2018-03-31,Female,75-84,S12000011,All Adults,84,East Renfrewshire,2017/18
+2018-03-31,Female,75-84,S12000013,All Adults,40,Na h-Eileanan Siar,2017/18
+2018-03-31,Female,75-84,S12000014,All Adults,193,Falkirk,2017/18
+2018-03-31,Female,75-84,S12000017,All Adults,279,Highland,2017/18
+2018-03-31,Female,75-84,S12000018,All Adults,150,Inverclyde,2017/18
+2018-03-31,Female,75-84,S12000019,All Adults,106,Midlothian,2017/18
+2018-03-31,Female,75-84,S12000020,All Adults,95,Moray,2017/18
+2018-03-31,Female,75-84,S12000021,All Adults,198,North Ayrshire,2017/18
+2018-03-31,Female,75-84,S12000023,All Adults,17,Orkney Islands,2017/18
+2018-03-31,Female,75-84,S12000026,All Adults,104,Scottish Borders,2017/18
+2018-03-31,Female,75-84,S12000027,All Adults,13,Shetland Islands,2017/18
+2018-03-31,Female,75-84,S12000028,All Adults,200,South Ayrshire,2017/18
+2018-03-31,Female,75-84,S12000029,All Adults,397,South Lanarkshire,2017/18
+2018-03-31,Female,75-84,S12000030,All Adults,69,Stirling,2017/18
+2018-03-31,Female,75-84,S12000033,All Adults,230,Aberdeen City,2017/18
+2018-03-31,Female,75-84,S12000034,All Adults,307,Aberdeenshire,2017/18
+2018-03-31,Female,75-84,S12000035,All Adults,104,Argyll and Bute,2017/18
+2018-03-31,Female,75-84,S12000036,All Adults,436,City of Edinburgh,2017/18
+2018-03-31,Female,75-84,S12000038,All Adults,224,Renfrewshire,2017/18
+2018-03-31,Female,75-84,S12000039,All Adults,111,West Dunbartonshire,2017/18
+2018-03-31,Female,75-84,S12000040,All Adults,191,West Lothian,2017/18
+2018-03-31,Female,75-84,S12000041,All Adults,147,Angus,2017/18
+2018-03-31,Female,75-84,S12000042,All Adults,214,Dundee City,2017/18
+2018-03-31,Female,75-84,S12000045,All Adults,154,East Dunbartonshire,2017/18
+2018-03-31,Female,75-84,S12000047,All Adults,458,Fife,2017/18
+2018-03-31,Female,75-84,S12000048,All Adults,179,Perth and Kinross,2017/18
+2018-03-31,Female,75-84,S12000049,All Adults,641,Glasgow City,2017/18
+2018-03-31,Female,75-84,S12000050,All Adults,307,North Lanarkshire,2017/18
+2018-03-31,Female,75-84,S92000003,All Adults,6143,Scotland,2017/18
+2018-03-31,Female,85-94,S12000005,All Adults,75,Clackmannanshire,2017/18
+2018-03-31,Female,85-94,S12000006,All Adults,356,Dumfries and Galloway,2017/18
+2018-03-31,Female,85-94,S12000008,All Adults,208,East Ayrshire,2017/18
+2018-03-31,Female,85-94,S12000010,All Adults,188,East Lothian,2017/18
+2018-03-31,Female,85-94,S12000011,All Adults,253,East Renfrewshire,2017/18
+2018-03-31,Female,85-94,S12000013,All Adults,63,Na h-Eileanan Siar,2017/18
+2018-03-31,Female,85-94,S12000014,All Adults,275,Falkirk,2017/18
+2018-03-31,Female,85-94,S12000017,All Adults,503,Highland,2017/18
+2018-03-31,Female,85-94,S12000018,All Adults,227,Inverclyde,2017/18
+2018-03-31,Female,85-94,S12000019,All Adults,135,Midlothian,2017/18
+2018-03-31,Female,85-94,S12000020,All Adults,187,Moray,2017/18
+2018-03-31,Female,85-94,S12000021,All Adults,246,North Ayrshire,2017/18
+2018-03-31,Female,85-94,S12000023,All Adults,33,Orkney Islands,2017/18
+2018-03-31,Female,85-94,S12000026,All Adults,225,Scottish Borders,2017/18
+2018-03-31,Female,85-94,S12000027,All Adults,28,Shetland Islands,2017/18
+2018-03-31,Female,85-94,S12000028,All Adults,304,South Ayrshire,2017/18
+2018-03-31,Female,85-94,S12000029,All Adults,637,South Lanarkshire,2017/18
+2018-03-31,Female,85-94,S12000030,All Adults,116,Stirling,2017/18
+2018-03-31,Female,85-94,S12000033,All Adults,403,Aberdeen City,2017/18
+2018-03-31,Female,85-94,S12000034,All Adults,510,Aberdeenshire,2017/18
+2018-03-31,Female,85-94,S12000035,All Adults,173,Argyll and Bute,2017/18
+2018-03-31,Female,85-94,S12000036,All Adults,1024,City of Edinburgh,2017/18
+2018-03-31,Female,85-94,S12000038,All Adults,373,Renfrewshire,2017/18
+2018-03-31,Female,85-94,S12000039,All Adults,156,West Dunbartonshire,2017/18
+2018-03-31,Female,85-94,S12000040,All Adults,263,West Lothian,2017/18
+2018-03-31,Female,85-94,S12000041,All Adults,379,Angus,2017/18
+2018-03-31,Female,85-94,S12000042,All Adults,325,Dundee City,2017/18
+2018-03-31,Female,85-94,S12000045,All Adults,237,East Dunbartonshire,2017/18
+2018-03-31,Female,85-94,S12000047,All Adults,784,Fife,2017/18
+2018-03-31,Female,85-94,S12000048,All Adults,415,Perth and Kinross,2017/18
+2018-03-31,Female,85-94,S12000049,All Adults,964,Glasgow City,2017/18
+2018-03-31,Female,85-94,S12000050,All Adults,403,North Lanarkshire,2017/18
+2018-03-31,Female,85-94,S92000003,All Adults,10478,Scotland,2017/18
+2018-03-31,Female,95 and Older,S12000006,All Adults,109,Dumfries and Galloway,2017/18
+2018-03-31,Female,95 and Older,S12000008,All Adults,54,East Ayrshire,2017/18
+2018-03-31,Female,95 and Older,S12000010,All Adults,50,East Lothian,2017/18
+2018-03-31,Female,95 and Older,S12000011,All Adults,60,East Renfrewshire,2017/18
+2018-03-31,Female,95 and Older,S12000013,All Adults,19,Na h-Eileanan Siar,2017/18
+2018-03-31,Female,95 and Older,S12000014,All Adults,76,Falkirk,2017/18
+2018-03-31,Female,95 and Older,S12000017,All Adults,144,Highland,2017/18
+2018-03-31,Female,95 and Older,S12000018,All Adults,59,Inverclyde,2017/18
+2018-03-31,Female,95 and Older,S12000019,All Adults,32,Midlothian,2017/18
+2018-03-31,Female,95 and Older,S12000020,All Adults,38,Moray,2017/18
+2018-03-31,Female,95 and Older,S12000021,All Adults,60,North Ayrshire,2017/18
+2018-03-31,Female,95 and Older,S12000023,All Adults,7,Orkney Islands,2017/18
+2018-03-31,Female,95 and Older,S12000026,All Adults,60,Scottish Borders,2017/18
+2018-03-31,Female,95 and Older,S12000028,All Adults,92,South Ayrshire,2017/18
+2018-03-31,Female,95 and Older,S12000029,All Adults,135,South Lanarkshire,2017/18
+2018-03-31,Female,95 and Older,S12000033,All Adults,80,Aberdeen City,2017/18
+2018-03-31,Female,95 and Older,S12000034,All Adults,119,Aberdeenshire,2017/18
+2018-03-31,Female,95 and Older,S12000036,All Adults,254,City of Edinburgh,2017/18
+2018-03-31,Female,95 and Older,S12000038,All Adults,80,Renfrewshire,2017/18
+2018-03-31,Female,95 and Older,S12000040,All Adults,46,West Lothian,2017/18
+2018-03-31,Female,95 and Older,S12000041,All Adults,94,Angus,2017/18
+2018-03-31,Female,95 and Older,S12000042,All Adults,60,Dundee City,2017/18
+2018-03-31,Female,95 and Older,S12000045,All Adults,57,East Dunbartonshire,2017/18
+2018-03-31,Female,95 and Older,S12000047,All Adults,226,Fife,2017/18
+2018-03-31,Female,95 and Older,S12000048,All Adults,110,Perth and Kinross,2017/18
+2018-03-31,Female,95 and Older,S12000049,All Adults,224,Glasgow City,2017/18
+2018-03-31,Female,95 and Older,S12000050,All Adults,84,North Lanarkshire,2017/18
+2018-03-31,Female,95 and Older,S92000003,All Adults,2580,Scotland,2017/18
+2018-03-31,Male,18-64,S12000005,All Adults,50,Clackmannanshire,2017/18
+2018-03-31,Male,18-64,S12000006,All Adults,44,Dumfries and Galloway,2017/18
+2018-03-31,Male,18-64,S12000008,All Adults,51,East Ayrshire,2017/18
+2018-03-31,Male,18-64,S12000010,All Adults,9,East Lothian,2017/18
+2018-03-31,Male,18-64,S12000011,All Adults,24,East Renfrewshire,2017/18
+2018-03-31,Male,18-64,S12000014,All Adults,66,Falkirk,2017/18
+2018-03-31,Male,18-64,S12000017,All Adults,134,Highland,2017/18
+2018-03-31,Male,18-64,S12000018,All Adults,47,Inverclyde,2017/18
+2018-03-31,Male,18-64,S12000019,All Adults,36,Midlothian,2017/18
+2018-03-31,Male,18-64,S12000020,All Adults,10,Moray,2017/18
+2018-03-31,Male,18-64,S12000021,All Adults,97,North Ayrshire,2017/18
+2018-03-31,Male,18-64,S12000026,All Adults,29,Scottish Borders,2017/18
+2018-03-31,Male,18-64,S12000028,All Adults,24,South Ayrshire,2017/18
+2018-03-31,Male,18-64,S12000029,All Adults,154,South Lanarkshire,2017/18
+2018-03-31,Male,18-64,S12000030,All Adults,93,Stirling,2017/18
+2018-03-31,Male,18-64,S12000033,All Adults,128,Aberdeen City,2017/18
+2018-03-31,Male,18-64,S12000034,All Adults,82,Aberdeenshire,2017/18
+2018-03-31,Male,18-64,S12000036,All Adults,83,City of Edinburgh,2017/18
+2018-03-31,Male,18-64,S12000038,All Adults,55,Renfrewshire,2017/18
+2018-03-31,Male,18-64,S12000040,All Adults,50,West Lothian,2017/18
+2018-03-31,Male,18-64,S12000041,All Adults,25,Angus,2017/18
+2018-03-31,Male,18-64,S12000042,All Adults,45,Dundee City,2017/18
+2018-03-31,Male,18-64,S12000045,All Adults,40,East Dunbartonshire,2017/18
+2018-03-31,Male,18-64,S12000047,All Adults,139,Fife,2017/18
+2018-03-31,Male,18-64,S12000048,All Adults,138,Perth and Kinross,2017/18
+2018-03-31,Male,18-64,S12000049,All Adults,300,Glasgow City,2017/18
+2018-03-31,Male,18-64,S12000050,All Adults,117,North Lanarkshire,2017/18
+2018-03-31,Male,18-64,S92000003,All Adults,2086,Scotland,2017/18
+2018-03-31,Male,65-74,S12000006,All Adults,43,Dumfries and Galloway,2017/18
+2018-03-31,Male,65-74,S12000008,All Adults,70,East Ayrshire,2017/18
+2018-03-31,Male,65-74,S12000010,All Adults,29,East Lothian,2017/18
+2018-03-31,Male,65-74,S12000011,All Adults,13,East Renfrewshire,2017/18
+2018-03-31,Male,65-74,S12000013,All Adults,11,Na h-Eileanan Siar,2017/18
+2018-03-31,Male,65-74,S12000014,All Adults,44,Falkirk,2017/18
+2018-03-31,Male,65-74,S12000017,All Adults,103,Highland,2017/18
+2018-03-31,Male,65-74,S12000018,All Adults,36,Inverclyde,2017/18
+2018-03-31,Male,65-74,S12000019,All Adults,23,Midlothian,2017/18
+2018-03-31,Male,65-74,S12000020,All Adults,32,Moray,2017/18
+2018-03-31,Male,65-74,S12000021,All Adults,54,North Ayrshire,2017/18
+2018-03-31,Male,65-74,S12000026,All Adults,22,Scottish Borders,2017/18
+2018-03-31,Male,65-74,S12000028,All Adults,45,South Ayrshire,2017/18
+2018-03-31,Male,65-74,S12000029,All Adults,148,South Lanarkshire,2017/18
+2018-03-31,Male,65-74,S12000033,All Adults,63,Aberdeen City,2017/18
+2018-03-31,Male,65-74,S12000034,All Adults,78,Aberdeenshire,2017/18
+2018-03-31,Male,65-74,S12000036,All Adults,122,City of Edinburgh,2017/18
+2018-03-31,Male,65-74,S12000038,All Adults,70,Renfrewshire,2017/18
+2018-03-31,Male,65-74,S12000039,All Adults,27,West Dunbartonshire,2017/18
+2018-03-31,Male,65-74,S12000040,All Adults,36,West Lothian,2017/18
+2018-03-31,Male,65-74,S12000041,All Adults,31,Angus,2017/18
+2018-03-31,Male,65-74,S12000042,All Adults,45,Dundee City,2017/18
+2018-03-31,Male,65-74,S12000045,All Adults,28,East Dunbartonshire,2017/18
+2018-03-31,Male,65-74,S12000047,All Adults,117,Fife,2017/18
+2018-03-31,Male,65-74,S12000048,All Adults,47,Perth and Kinross,2017/18
+2018-03-31,Male,65-74,S12000049,All Adults,216,Glasgow City,2017/18
+2018-03-31,Male,65-74,S12000050,All Adults,95,North Lanarkshire,2017/18
+2018-03-31,Male,65-74,S92000003,All Adults,1716,Scotland,2017/18
+2018-03-31,Male,75-84,S12000005,All Adults,32,Clackmannanshire,2017/18
+2018-03-31,Male,75-84,S12000006,All Adults,113,Dumfries and Galloway,2017/18
+2018-03-31,Male,75-84,S12000008,All Adults,95,East Ayrshire,2017/18
+2018-03-31,Male,75-84,S12000010,All Adults,52,East Lothian,2017/18
+2018-03-31,Male,75-84,S12000011,All Adults,29,East Renfrewshire,2017/18
+2018-03-31,Male,75-84,S12000013,All Adults,17,Na h-Eileanan Siar,2017/18
+2018-03-31,Male,75-84,S12000014,All Adults,99,Falkirk,2017/18
+2018-03-31,Male,75-84,S12000017,All Adults,173,Highland,2017/18
+2018-03-31,Male,75-84,S12000018,All Adults,65,Inverclyde,2017/18
+2018-03-31,Male,75-84,S12000019,All Adults,35,Midlothian,2017/18
+2018-03-31,Male,75-84,S12000020,All Adults,61,Moray,2017/18
+2018-03-31,Male,75-84,S12000021,All Adults,113,North Ayrshire,2017/18
+2018-03-31,Male,75-84,S12000023,All Adults,14,Orkney Islands,2017/18
+2018-03-31,Male,75-84,S12000026,All Adults,47,Scottish Borders,2017/18
+2018-03-31,Male,75-84,S12000027,All Adults,16,Shetland Islands,2017/18
+2018-03-31,Male,75-84,S12000028,All Adults,121,South Ayrshire,2017/18
+2018-03-31,Male,75-84,S12000029,All Adults,190,South Lanarkshire,2017/18
+2018-03-31,Male,75-84,S12000030,All Adults,43,Stirling,2017/18
+2018-03-31,Male,75-84,S12000033,All Adults,116,Aberdeen City,2017/18
+2018-03-31,Male,75-84,S12000034,All Adults,144,Aberdeenshire,2017/18
+2018-03-31,Male,75-84,S12000035,All Adults,45,Argyll and Bute,2017/18
+2018-03-31,Male,75-84,S12000036,All Adults,242,City of Edinburgh,2017/18
+2018-03-31,Male,75-84,S12000038,All Adults,155,Renfrewshire,2017/18
+2018-03-31,Male,75-84,S12000039,All Adults,56,West Dunbartonshire,2017/18
+2018-03-31,Male,75-84,S12000040,All Adults,76,West Lothian,2017/18
+2018-03-31,Male,75-84,S12000041,All Adults,54,Angus,2017/18
+2018-03-31,Male,75-84,S12000042,All Adults,113,Dundee City,2017/18
+2018-03-31,Male,75-84,S12000045,All Adults,67,East Dunbartonshire,2017/18
+2018-03-31,Male,75-84,S12000047,All Adults,250,Fife,2017/18
+2018-03-31,Male,75-84,S12000048,All Adults,105,Perth and Kinross,2017/18
+2018-03-31,Male,75-84,S12000049,All Adults,391,Glasgow City,2017/18
+2018-03-31,Male,75-84,S12000050,All Adults,176,North Lanarkshire,2017/18
+2018-03-31,Male,75-84,S92000003,All Adults,3302,Scotland,2017/18
+2018-03-31,Male,85-94,S12000005,All Adults,19,Clackmannanshire,2017/18
+2018-03-31,Male,85-94,S12000006,All Adults,124,Dumfries and Galloway,2017/18
+2018-03-31,Male,85-94,S12000008,All Adults,76,East Ayrshire,2017/18
+2018-03-31,Male,85-94,S12000010,All Adults,69,East Lothian,2017/18
+2018-03-31,Male,85-94,S12000011,All Adults,73,East Renfrewshire,2017/18
+2018-03-31,Male,85-94,S12000013,All Adults,21,Na h-Eileanan Siar,2017/18
+2018-03-31,Male,85-94,S12000014,All Adults,83,Falkirk,2017/18
+2018-03-31,Male,85-94,S12000017,All Adults,163,Highland,2017/18
+2018-03-31,Male,85-94,S12000018,All Adults,61,Inverclyde,2017/18
+2018-03-31,Male,85-94,S12000019,All Adults,46,Midlothian,2017/18
+2018-03-31,Male,85-94,S12000020,All Adults,55,Moray,2017/18
+2018-03-31,Male,85-94,S12000021,All Adults,70,North Ayrshire,2017/18
+2018-03-31,Male,85-94,S12000023,All Adults,9,Orkney Islands,2017/18
+2018-03-31,Male,85-94,S12000026,All Adults,50,Scottish Borders,2017/18
+2018-03-31,Male,85-94,S12000027,All Adults,11,Shetland Islands,2017/18
+2018-03-31,Male,85-94,S12000028,All Adults,95,South Ayrshire,2017/18
+2018-03-31,Male,85-94,S12000029,All Adults,172,South Lanarkshire,2017/18
+2018-03-31,Male,85-94,S12000030,All Adults,44,Stirling,2017/18
+2018-03-31,Male,85-94,S12000033,All Adults,129,Aberdeen City,2017/18
+2018-03-31,Male,85-94,S12000034,All Adults,166,Aberdeenshire,2017/18
+2018-03-31,Male,85-94,S12000035,All Adults,51,Argyll and Bute,2017/18
+2018-03-31,Male,85-94,S12000036,All Adults,274,City of Edinburgh,2017/18
+2018-03-31,Male,85-94,S12000038,All Adults,148,Renfrewshire,2017/18
+2018-03-31,Male,85-94,S12000039,All Adults,28,West Dunbartonshire,2017/18
+2018-03-31,Male,85-94,S12000040,All Adults,95,West Lothian,2017/18
+2018-03-31,Male,85-94,S12000041,All Adults,99,Angus,2017/18
+2018-03-31,Male,85-94,S12000042,All Adults,74,Dundee City,2017/18
+2018-03-31,Male,85-94,S12000045,All Adults,65,East Dunbartonshire,2017/18
+2018-03-31,Male,85-94,S12000047,All Adults,247,Fife,2017/18
+2018-03-31,Male,85-94,S12000048,All Adults,120,Perth and Kinross,2017/18
+2018-03-31,Male,85-94,S12000049,All Adults,285,Glasgow City,2017/18
+2018-03-31,Male,85-94,S12000050,All Adults,105,North Lanarkshire,2017/18
+2018-03-31,Male,85-94,S92000003,All Adults,3131,Scotland,2017/18
+2018-03-31,Male,95 and Older,S12000006,All Adults,20,Dumfries and Galloway,2017/18
+2018-03-31,Male,95 and Older,S12000008,All Adults,7,East Ayrshire,2017/18
+2018-03-31,Male,95 and Older,S12000010,All Adults,5,East Lothian,2017/18
+2018-03-31,Male,95 and Older,S12000011,All Adults,8,East Renfrewshire,2017/18
+2018-03-31,Male,95 and Older,S12000014,All Adults,17,Falkirk,2017/18
+2018-03-31,Male,95 and Older,S12000017,All Adults,16,Highland,2017/18
+2018-03-31,Male,95 and Older,S12000018,All Adults,5,Inverclyde,2017/18
+2018-03-31,Male,95 and Older,S12000019,All Adults,13,Midlothian,2017/18
+2018-03-31,Male,95 and Older,S12000020,All Adults,10,Moray,2017/18
+2018-03-31,Male,95 and Older,S12000021,All Adults,11,North Ayrshire,2017/18
+2018-03-31,Male,95 and Older,S12000026,All Adults,8,Scottish Borders,2017/18
+2018-03-31,Male,95 and Older,S12000028,All Adults,17,South Ayrshire,2017/18
+2018-03-31,Male,95 and Older,S12000029,All Adults,21,South Lanarkshire,2017/18
+2018-03-31,Male,95 and Older,S12000033,All Adults,16,Aberdeen City,2017/18
+2018-03-31,Male,95 and Older,S12000034,All Adults,30,Aberdeenshire,2017/18
+2018-03-31,Male,95 and Older,S12000036,All Adults,57,City of Edinburgh,2017/18
+2018-03-31,Male,95 and Older,S12000038,All Adults,16,Renfrewshire,2017/18
+2018-03-31,Male,95 and Older,S12000040,All Adults,6,West Lothian,2017/18
+2018-03-31,Male,95 and Older,S12000041,All Adults,15,Angus,2017/18
+2018-03-31,Male,95 and Older,S12000042,All Adults,18,Dundee City,2017/18
+2018-03-31,Male,95 and Older,S12000045,All Adults,18,East Dunbartonshire,2017/18
+2018-03-31,Male,95 and Older,S12000047,All Adults,52,Fife,2017/18
+2018-03-31,Male,95 and Older,S12000048,All Adults,28,Perth and Kinross,2017/18
+2018-03-31,Male,95 and Older,S12000049,All Adults,36,Glasgow City,2017/18
+2018-03-31,Male,95 and Older,S12000050,All Adults,11,North Lanarkshire,2017/18
+2018-03-31,Male,95 and Older,S92000003,All Adults,477,Scotland,2017/18
+2019-03-31,Female,18-64,S12000005,All Adults,32,Clackmannanshire,2018/19
+2019-03-31,Female,18-64,S12000006,All Adults,21,Dumfries and Galloway,2018/19
+2019-03-31,Female,18-64,S12000008,All Adults,29,East Ayrshire,2018/19
+2019-03-31,Female,18-64,S12000010,All Adults,7,East Lothian,2018/19
+2019-03-31,Female,18-64,S12000014,All Adults,30,Falkirk,2018/19
+2019-03-31,Female,18-64,S12000017,All Adults,100,Highland,2018/19
+2019-03-31,Female,18-64,S12000018,All Adults,37,Inverclyde,2018/19
+2019-03-31,Female,18-64,S12000019,All Adults,54,Midlothian,2018/19
+2019-03-31,Female,18-64,S12000020,All Adults,7,Moray,2018/19
+2019-03-31,Female,18-64,S12000021,All Adults,53,North Ayrshire,2018/19
+2019-03-31,Female,18-64,S12000026,All Adults,21,Scottish Borders,2018/19
+2019-03-31,Female,18-64,S12000028,All Adults,50,South Ayrshire,2018/19
+2019-03-31,Female,18-64,S12000029,All Adults,90,South Lanarkshire,2018/19
+2019-03-31,Female,18-64,S12000030,All Adults,27,Stirling,2018/19
+2019-03-31,Female,18-64,S12000033,All Adults,87,Aberdeen City,2018/19
+2019-03-31,Female,18-64,S12000034,All Adults,87,Aberdeenshire,2018/19
+2019-03-31,Female,18-64,S12000036,All Adults,55,City of Edinburgh,2018/19
+2019-03-31,Female,18-64,S12000038,All Adults,33,Renfrewshire,2018/19
+2019-03-31,Female,18-64,S12000040,All Adults,39,West Lothian,2018/19
+2019-03-31,Female,18-64,S12000041,All Adults,31,Angus,2018/19
+2019-03-31,Female,18-64,S12000042,All Adults,30,Dundee City,2018/19
+2019-03-31,Female,18-64,S12000045,All Adults,9,East Dunbartonshire,2018/19
+2019-03-31,Female,18-64,S12000047,All Adults,122,Fife,2018/19
+2019-03-31,Female,18-64,S12000048,All Adults,60,Perth and Kinross,2018/19
+2019-03-31,Female,18-64,S12000049,All Adults,200,Glasgow City,2018/19
+2019-03-31,Female,18-64,S12000050,All Adults,21,North Lanarkshire,2018/19
+2019-03-31,Female,18-64,S92000003,All Adults,1348,Scotland,2018/19
+2019-03-31,Female,65-74,S12000005,All Adults,14,Clackmannanshire,2018/19
+2019-03-31,Female,65-74,S12000006,All Adults,53,Dumfries and Galloway,2018/19
+2019-03-31,Female,65-74,S12000008,All Adults,35,East Ayrshire,2018/19
+2019-03-31,Female,65-74,S12000010,All Adults,20,East Lothian,2018/19
+2019-03-31,Female,65-74,S12000011,All Adults,24,East Renfrewshire,2018/19
+2019-03-31,Female,65-74,S12000014,All Adults,56,Falkirk,2018/19
+2019-03-31,Female,65-74,S12000017,All Adults,86,Highland,2018/19
+2019-03-31,Female,65-74,S12000018,All Adults,31,Inverclyde,2018/19
+2019-03-31,Female,65-74,S12000020,All Adults,26,Moray,2018/19
+2019-03-31,Female,65-74,S12000021,All Adults,53,North Ayrshire,2018/19
+2019-03-31,Female,65-74,S12000026,All Adults,32,Scottish Borders,2018/19
+2019-03-31,Female,65-74,S12000027,All Adults,6,Shetland Islands,2018/19
+2019-03-31,Female,65-74,S12000028,All Adults,47,South Ayrshire,2018/19
+2019-03-31,Female,65-74,S12000029,All Adults,129,South Lanarkshire,2018/19
+2019-03-31,Female,65-74,S12000030,All Adults,17,Stirling,2018/19
+2019-03-31,Female,65-74,S12000033,All Adults,76,Aberdeen City,2018/19
+2019-03-31,Female,65-74,S12000034,All Adults,88,Aberdeenshire,2018/19
+2019-03-31,Female,65-74,S12000036,All Adults,113,City of Edinburgh,2018/19
+2019-03-31,Female,65-74,S12000038,All Adults,72,Renfrewshire,2018/19
+2019-03-31,Female,65-74,S12000039,All Adults,37,West Dunbartonshire,2018/19
+2019-03-31,Female,65-74,S12000040,All Adults,45,West Lothian,2018/19
+2019-03-31,Female,65-74,S12000041,All Adults,58,Angus,2018/19
+2019-03-31,Female,65-74,S12000042,All Adults,62,Dundee City,2018/19
+2019-03-31,Female,65-74,S12000045,All Adults,43,East Dunbartonshire,2018/19
+2019-03-31,Female,65-74,S12000047,All Adults,183,Fife,2018/19
+2019-03-31,Female,65-74,S12000048,All Adults,57,Perth and Kinross,2018/19
+2019-03-31,Female,65-74,S12000049,All Adults,274,Glasgow City,2018/19
+2019-03-31,Female,65-74,S12000050,All Adults,103,North Lanarkshire,2018/19
+2019-03-31,Female,65-74,S92000003,All Adults,1895,Scotland,2018/19
+2019-03-31,Female,75-84,S12000005,All Adults,72,Clackmannanshire,2018/19
+2019-03-31,Female,75-84,S12000006,All Adults,181,Dumfries and Galloway,2018/19
+2019-03-31,Female,75-84,S12000008,All Adults,159,East Ayrshire,2018/19
+2019-03-31,Female,75-84,S12000010,All Adults,96,East Lothian,2018/19
+2019-03-31,Female,75-84,S12000011,All Adults,102,East Renfrewshire,2018/19
+2019-03-31,Female,75-84,S12000013,All Adults,40,Na h-Eileanan Siar,2018/19
+2019-03-31,Female,75-84,S12000014,All Adults,201,Falkirk,2018/19
+2019-03-31,Female,75-84,S12000017,All Adults,300,Highland,2018/19
+2019-03-31,Female,75-84,S12000018,All Adults,137,Inverclyde,2018/19
+2019-03-31,Female,75-84,S12000019,All Adults,87,Midlothian,2018/19
+2019-03-31,Female,75-84,S12000020,All Adults,103,Moray,2018/19
+2019-03-31,Female,75-84,S12000021,All Adults,215,North Ayrshire,2018/19
+2019-03-31,Female,75-84,S12000023,All Adults,20,Orkney Islands,2018/19
+2019-03-31,Female,75-84,S12000026,All Adults,125,Scottish Borders,2018/19
+2019-03-31,Female,75-84,S12000027,All Adults,15,Shetland Islands,2018/19
+2019-03-31,Female,75-84,S12000028,All Adults,181,South Ayrshire,2018/19
+2019-03-31,Female,75-84,S12000029,All Adults,409,South Lanarkshire,2018/19
+2019-03-31,Female,75-84,S12000030,All Adults,47,Stirling,2018/19
+2019-03-31,Female,75-84,S12000033,All Adults,259,Aberdeen City,2018/19
+2019-03-31,Female,75-84,S12000034,All Adults,293,Aberdeenshire,2018/19
+2019-03-31,Female,75-84,S12000035,All Adults,98,Argyll and Bute,2018/19
+2019-03-31,Female,75-84,S12000036,All Adults,439,City of Edinburgh,2018/19
+2019-03-31,Female,75-84,S12000038,All Adults,230,Renfrewshire,2018/19
+2019-03-31,Female,75-84,S12000039,All Adults,118,West Dunbartonshire,2018/19
+2019-03-31,Female,75-84,S12000040,All Adults,208,West Lothian,2018/19
+2019-03-31,Female,75-84,S12000041,All Adults,144,Angus,2018/19
+2019-03-31,Female,75-84,S12000042,All Adults,210,Dundee City,2018/19
+2019-03-31,Female,75-84,S12000045,All Adults,185,East Dunbartonshire,2018/19
+2019-03-31,Female,75-84,S12000047,All Adults,469,Fife,2018/19
+2019-03-31,Female,75-84,S12000048,All Adults,181,Perth and Kinross,2018/19
+2019-03-31,Female,75-84,S12000049,All Adults,688,Glasgow City,2018/19
+2019-03-31,Female,75-84,S12000050,All Adults,355,North Lanarkshire,2018/19
+2019-03-31,Female,75-84,S92000003,All Adults,6384,Scotland,2018/19
+2019-03-31,Female,85-94,S12000005,All Adults,82,Clackmannanshire,2018/19
+2019-03-31,Female,85-94,S12000006,All Adults,367,Dumfries and Galloway,2018/19
+2019-03-31,Female,85-94,S12000008,All Adults,207,East Ayrshire,2018/19
+2019-03-31,Female,85-94,S12000010,All Adults,175,East Lothian,2018/19
+2019-03-31,Female,85-94,S12000011,All Adults,188,East Renfrewshire,2018/19
+2019-03-31,Female,85-94,S12000013,All Adults,73,Na h-Eileanan Siar,2018/19
+2019-03-31,Female,85-94,S12000014,All Adults,265,Falkirk,2018/19
+2019-03-31,Female,85-94,S12000017,All Adults,503,Highland,2018/19
+2019-03-31,Female,85-94,S12000018,All Adults,227,Inverclyde,2018/19
+2019-03-31,Female,85-94,S12000019,All Adults,146,Midlothian,2018/19
+2019-03-31,Female,85-94,S12000020,All Adults,178,Moray,2018/19
+2019-03-31,Female,85-94,S12000021,All Adults,240,North Ayrshire,2018/19
+2019-03-31,Female,85-94,S12000023,All Adults,38,Orkney Islands,2018/19
+2019-03-31,Female,85-94,S12000026,All Adults,217,Scottish Borders,2018/19
+2019-03-31,Female,85-94,S12000027,All Adults,26,Shetland Islands,2018/19
+2019-03-31,Female,85-94,S12000028,All Adults,342,South Ayrshire,2018/19
+2019-03-31,Female,85-94,S12000029,All Adults,685,South Lanarkshire,2018/19
+2019-03-31,Female,85-94,S12000030,All Adults,106,Stirling,2018/19
+2019-03-31,Female,85-94,S12000033,All Adults,408,Aberdeen City,2018/19
+2019-03-31,Female,85-94,S12000034,All Adults,529,Aberdeenshire,2018/19
+2019-03-31,Female,85-94,S12000035,All Adults,157,Argyll and Bute,2018/19
+2019-03-31,Female,85-94,S12000036,All Adults,983,City of Edinburgh,2018/19
+2019-03-31,Female,85-94,S12000038,All Adults,407,Renfrewshire,2018/19
+2019-03-31,Female,85-94,S12000039,All Adults,176,West Dunbartonshire,2018/19
+2019-03-31,Female,85-94,S12000040,All Adults,252,West Lothian,2018/19
+2019-03-31,Female,85-94,S12000041,All Adults,350,Angus,2018/19
+2019-03-31,Female,85-94,S12000042,All Adults,347,Dundee City,2018/19
+2019-03-31,Female,85-94,S12000045,All Adults,308,East Dunbartonshire,2018/19
+2019-03-31,Female,85-94,S12000047,All Adults,745,Fife,2018/19
+2019-03-31,Female,85-94,S12000048,All Adults,391,Perth and Kinross,2018/19
+2019-03-31,Female,85-94,S12000049,All Adults,1040,Glasgow City,2018/19
+2019-03-31,Female,85-94,S12000050,All Adults,419,North Lanarkshire,2018/19
+2019-03-31,Female,85-94,S92000003,All Adults,10579,Scotland,2018/19
+2019-03-31,Female,95 and Older,S12000005,All Adults,29,Clackmannanshire,2018/19
+2019-03-31,Female,95 and Older,S12000006,All Adults,77,Dumfries and Galloway,2018/19
+2019-03-31,Female,95 and Older,S12000008,All Adults,57,East Ayrshire,2018/19
+2019-03-31,Female,95 and Older,S12000010,All Adults,57,East Lothian,2018/19
+2019-03-31,Female,95 and Older,S12000013,All Adults,16,Na h-Eileanan Siar,2018/19
+2019-03-31,Female,95 and Older,S12000014,All Adults,78,Falkirk,2018/19
+2019-03-31,Female,95 and Older,S12000017,All Adults,141,Highland,2018/19
+2019-03-31,Female,95 and Older,S12000018,All Adults,41,Inverclyde,2018/19
+2019-03-31,Female,95 and Older,S12000020,All Adults,39,Moray,2018/19
+2019-03-31,Female,95 and Older,S12000021,All Adults,57,North Ayrshire,2018/19
+2019-03-31,Female,95 and Older,S12000023,All Adults,7,Orkney Islands,2018/19
+2019-03-31,Female,95 and Older,S12000026,All Adults,57,Scottish Borders,2018/19
+2019-03-31,Female,95 and Older,S12000028,All Adults,108,South Ayrshire,2018/19
+2019-03-31,Female,95 and Older,S12000029,All Adults,147,South Lanarkshire,2018/19
+2019-03-31,Female,95 and Older,S12000030,All Adults,42,Stirling,2018/19
+2019-03-31,Female,95 and Older,S12000033,All Adults,96,Aberdeen City,2018/19
+2019-03-31,Female,95 and Older,S12000034,All Adults,131,Aberdeenshire,2018/19
+2019-03-31,Female,95 and Older,S12000035,All Adults,45,Argyll and Bute,2018/19
+2019-03-31,Female,95 and Older,S12000036,All Adults,261,City of Edinburgh,2018/19
+2019-03-31,Female,95 and Older,S12000038,All Adults,85,Renfrewshire,2018/19
+2019-03-31,Female,95 and Older,S12000040,All Adults,58,West Lothian,2018/19
+2019-03-31,Female,95 and Older,S12000041,All Adults,103,Angus,2018/19
+2019-03-31,Female,95 and Older,S12000042,All Adults,67,Dundee City,2018/19
+2019-03-31,Female,95 and Older,S12000045,All Adults,77,East Dunbartonshire,2018/19
+2019-03-31,Female,95 and Older,S12000047,All Adults,212,Fife,2018/19
+2019-03-31,Female,95 and Older,S12000048,All Adults,137,Perth and Kinross,2018/19
+2019-03-31,Female,95 and Older,S12000049,All Adults,230,Glasgow City,2018/19
+2019-03-31,Female,95 and Older,S12000050,All Adults,91,North Lanarkshire,2018/19
+2019-03-31,Female,95 and Older,S92000003,All Adults,2668,Scotland,2018/19
+2019-03-31,Male,18-64,S12000005,All Adults,27,Clackmannanshire,2018/19
+2019-03-31,Male,18-64,S12000006,All Adults,38,Dumfries and Galloway,2018/19
+2019-03-31,Male,18-64,S12000008,All Adults,31,East Ayrshire,2018/19
+2019-03-31,Male,18-64,S12000010,All Adults,11,East Lothian,2018/19
+2019-03-31,Male,18-64,S12000014,All Adults,56,Falkirk,2018/19
+2019-03-31,Male,18-64,S12000017,All Adults,139,Highland,2018/19
+2019-03-31,Male,18-64,S12000018,All Adults,46,Inverclyde,2018/19
+2019-03-31,Male,18-64,S12000019,All Adults,40,Midlothian,2018/19
+2019-03-31,Male,18-64,S12000020,All Adults,7,Moray,2018/19
+2019-03-31,Male,18-64,S12000021,All Adults,87,North Ayrshire,2018/19
+2019-03-31,Male,18-64,S12000026,All Adults,30,Scottish Borders,2018/19
+2019-03-31,Male,18-64,S12000028,All Adults,45,South Ayrshire,2018/19
+2019-03-31,Male,18-64,S12000029,All Adults,170,South Lanarkshire,2018/19
+2019-03-31,Male,18-64,S12000030,All Adults,106,Stirling,2018/19
+2019-03-31,Male,18-64,S12000033,All Adults,114,Aberdeen City,2018/19
+2019-03-31,Male,18-64,S12000034,All Adults,85,Aberdeenshire,2018/19
+2019-03-31,Male,18-64,S12000035,All Adults,0,Argyll and Bute,2018/19
+2019-03-31,Male,18-64,S12000036,All Adults,67,City of Edinburgh,2018/19
+2019-03-31,Male,18-64,S12000038,All Adults,48,Renfrewshire,2018/19
+2019-03-31,Male,18-64,S12000040,All Adults,31,West Lothian,2018/19
+2019-03-31,Male,18-64,S12000041,All Adults,23,Angus,2018/19
+2019-03-31,Male,18-64,S12000042,All Adults,30,Dundee City,2018/19
+2019-03-31,Male,18-64,S12000045,All Adults,11,East Dunbartonshire,2018/19
+2019-03-31,Male,18-64,S12000047,All Adults,151,Fife,2018/19
+2019-03-31,Male,18-64,S12000048,All Adults,97,Perth and Kinross,2018/19
+2019-03-31,Male,18-64,S12000049,All Adults,329,Glasgow City,2018/19
+2019-03-31,Male,18-64,S12000050,All Adults,48,North Lanarkshire,2018/19
+2019-03-31,Male,18-64,S92000003,All Adults,1872,Scotland,2018/19
+2019-03-31,Male,65-74,S12000005,All Adults,23,Clackmannanshire,2018/19
+2019-03-31,Male,65-74,S12000006,All Adults,56,Dumfries and Galloway,2018/19
+2019-03-31,Male,65-74,S12000008,All Adults,66,East Ayrshire,2018/19
+2019-03-31,Male,65-74,S12000010,All Adults,28,East Lothian,2018/19
+2019-03-31,Male,65-74,S12000011,All Adults,22,East Renfrewshire,2018/19
+2019-03-31,Male,65-74,S12000013,All Adults,9,Na h-Eileanan Siar,2018/19
+2019-03-31,Male,65-74,S12000014,All Adults,38,Falkirk,2018/19
+2019-03-31,Male,65-74,S12000017,All Adults,122,Highland,2018/19
+2019-03-31,Male,65-74,S12000018,All Adults,38,Inverclyde,2018/19
+2019-03-31,Male,65-74,S12000020,All Adults,28,Moray,2018/19
+2019-03-31,Male,65-74,S12000021,All Adults,50,North Ayrshire,2018/19
+2019-03-31,Male,65-74,S12000026,All Adults,25,Scottish Borders,2018/19
+2019-03-31,Male,65-74,S12000027,All Adults,7,Shetland Islands,2018/19
+2019-03-31,Male,65-74,S12000028,All Adults,41,South Ayrshire,2018/19
+2019-03-31,Male,65-74,S12000029,All Adults,167,South Lanarkshire,2018/19
+2019-03-31,Male,65-74,S12000030,All Adults,27,Stirling,2018/19
+2019-03-31,Male,65-74,S12000033,All Adults,69,Aberdeen City,2018/19
+2019-03-31,Male,65-74,S12000034,All Adults,81,Aberdeenshire,2018/19
+2019-03-31,Male,65-74,S12000036,All Adults,113,City of Edinburgh,2018/19
+2019-03-31,Male,65-74,S12000038,All Adults,62,Renfrewshire,2018/19
+2019-03-31,Male,65-74,S12000039,All Adults,30,West Dunbartonshire,2018/19
+2019-03-31,Male,65-74,S12000040,All Adults,27,West Lothian,2018/19
+2019-03-31,Male,65-74,S12000041,All Adults,42,Angus,2018/19
+2019-03-31,Male,65-74,S12000042,All Adults,44,Dundee City,2018/19
+2019-03-31,Male,65-74,S12000045,All Adults,31,East Dunbartonshire,2018/19
+2019-03-31,Male,65-74,S12000047,All Adults,127,Fife,2018/19
+2019-03-31,Male,65-74,S12000048,All Adults,56,Perth and Kinross,2018/19
+2019-03-31,Male,65-74,S12000049,All Adults,261,Glasgow City,2018/19
+2019-03-31,Male,65-74,S12000050,All Adults,80,North Lanarkshire,2018/19
+2019-03-31,Male,65-74,S92000003,All Adults,1816,Scotland,2018/19
+2019-03-31,Male,75-84,S12000005,All Adults,41,Clackmannanshire,2018/19
+2019-03-31,Male,75-84,S12000006,All Adults,111,Dumfries and Galloway,2018/19
+2019-03-31,Male,75-84,S12000008,All Adults,96,East Ayrshire,2018/19
+2019-03-31,Male,75-84,S12000010,All Adults,57,East Lothian,2018/19
+2019-03-31,Male,75-84,S12000011,All Adults,38,East Renfrewshire,2018/19
+2019-03-31,Male,75-84,S12000013,All Adults,23,Na h-Eileanan Siar,2018/19
+2019-03-31,Male,75-84,S12000014,All Adults,108,Falkirk,2018/19
+2019-03-31,Male,75-84,S12000017,All Adults,161,Highland,2018/19
+2019-03-31,Male,75-84,S12000018,All Adults,72,Inverclyde,2018/19
+2019-03-31,Male,75-84,S12000019,All Adults,32,Midlothian,2018/19
+2019-03-31,Male,75-84,S12000020,All Adults,61,Moray,2018/19
+2019-03-31,Male,75-84,S12000021,All Adults,107,North Ayrshire,2018/19
+2019-03-31,Male,75-84,S12000023,All Adults,10,Orkney Islands,2018/19
+2019-03-31,Male,75-84,S12000026,All Adults,54,Scottish Borders,2018/19
+2019-03-31,Male,75-84,S12000027,All Adults,12,Shetland Islands,2018/19
+2019-03-31,Male,75-84,S12000028,All Adults,109,South Ayrshire,2018/19
+2019-03-31,Male,75-84,S12000029,All Adults,217,South Lanarkshire,2018/19
+2019-03-31,Male,75-84,S12000030,All Adults,35,Stirling,2018/19
+2019-03-31,Male,75-84,S12000033,All Adults,114,Aberdeen City,2018/19
+2019-03-31,Male,75-84,S12000034,All Adults,136,Aberdeenshire,2018/19
+2019-03-31,Male,75-84,S12000035,All Adults,38,Argyll and Bute,2018/19
+2019-03-31,Male,75-84,S12000036,All Adults,260,City of Edinburgh,2018/19
+2019-03-31,Male,75-84,S12000038,All Adults,157,Renfrewshire,2018/19
+2019-03-31,Male,75-84,S12000039,All Adults,58,West Dunbartonshire,2018/19
+2019-03-31,Male,75-84,S12000040,All Adults,92,West Lothian,2018/19
+2019-03-31,Male,75-84,S12000041,All Adults,76,Angus,2018/19
+2019-03-31,Male,75-84,S12000042,All Adults,100,Dundee City,2018/19
+2019-03-31,Male,75-84,S12000045,All Adults,73,East Dunbartonshire,2018/19
+2019-03-31,Male,75-84,S12000047,All Adults,248,Fife,2018/19
+2019-03-31,Male,75-84,S12000048,All Adults,109,Perth and Kinross,2018/19
+2019-03-31,Male,75-84,S12000049,All Adults,420,Glasgow City,2018/19
+2019-03-31,Male,75-84,S12000050,All Adults,160,North Lanarkshire,2018/19
+2019-03-31,Male,75-84,S92000003,All Adults,3392,Scotland,2018/19
+2019-03-31,Male,85-94,S12000005,All Adults,23,Clackmannanshire,2018/19
+2019-03-31,Male,85-94,S12000006,All Adults,127,Dumfries and Galloway,2018/19
+2019-03-31,Male,85-94,S12000008,All Adults,69,East Ayrshire,2018/19
+2019-03-31,Male,85-94,S12000010,All Adults,72,East Lothian,2018/19
+2019-03-31,Male,85-94,S12000011,All Adults,69,East Renfrewshire,2018/19
+2019-03-31,Male,85-94,S12000013,All Adults,16,Na h-Eileanan Siar,2018/19
+2019-03-31,Male,85-94,S12000014,All Adults,74,Falkirk,2018/19
+2019-03-31,Male,85-94,S12000017,All Adults,161,Highland,2018/19
+2019-03-31,Male,85-94,S12000018,All Adults,58,Inverclyde,2018/19
+2019-03-31,Male,85-94,S12000019,All Adults,40,Midlothian,2018/19
+2019-03-31,Male,85-94,S12000020,All Adults,56,Moray,2018/19
+2019-03-31,Male,85-94,S12000021,All Adults,91,North Ayrshire,2018/19
+2019-03-31,Male,85-94,S12000023,All Adults,10,Orkney Islands,2018/19
+2019-03-31,Male,85-94,S12000026,All Adults,55,Scottish Borders,2018/19
+2019-03-31,Male,85-94,S12000027,All Adults,17,Shetland Islands,2018/19
+2019-03-31,Male,85-94,S12000028,All Adults,94,South Ayrshire,2018/19
+2019-03-31,Male,85-94,S12000029,All Adults,184,South Lanarkshire,2018/19
+2019-03-31,Male,85-94,S12000030,All Adults,46,Stirling,2018/19
+2019-03-31,Male,85-94,S12000033,All Adults,120,Aberdeen City,2018/19
+2019-03-31,Male,85-94,S12000034,All Adults,181,Aberdeenshire,2018/19
+2019-03-31,Male,85-94,S12000035,All Adults,48,Argyll and Bute,2018/19
+2019-03-31,Male,85-94,S12000036,All Adults,300,City of Edinburgh,2018/19
+2019-03-31,Male,85-94,S12000038,All Adults,139,Renfrewshire,2018/19
+2019-03-31,Male,85-94,S12000039,All Adults,37,West Dunbartonshire,2018/19
+2019-03-31,Male,85-94,S12000040,All Adults,91,West Lothian,2018/19
+2019-03-31,Male,85-94,S12000041,All Adults,88,Angus,2018/19
+2019-03-31,Male,85-94,S12000042,All Adults,80,Dundee City,2018/19
+2019-03-31,Male,85-94,S12000045,All Adults,79,East Dunbartonshire,2018/19
+2019-03-31,Male,85-94,S12000047,All Adults,255,Fife,2018/19
+2019-03-31,Male,85-94,S12000048,All Adults,132,Perth and Kinross,2018/19
+2019-03-31,Male,85-94,S12000049,All Adults,290,Glasgow City,2018/19
+2019-03-31,Male,85-94,S12000050,All Adults,124,North Lanarkshire,2018/19
+2019-03-31,Male,85-94,S92000003,All Adults,3221,Scotland,2018/19
+2019-03-31,Male,95 and Older,S12000005,All Adults,0,Clackmannanshire,2018/19
+2019-03-31,Male,95 and Older,S12000006,All Adults,15,Dumfries and Galloway,2018/19
+2019-03-31,Male,95 and Older,S12000008,All Adults,7,East Ayrshire,2018/19
+2019-03-31,Male,95 and Older,S12000010,All Adults,9,East Lothian,2018/19
+2019-03-31,Male,95 and Older,S12000014,All Adults,19,Falkirk,2018/19
+2019-03-31,Male,95 and Older,S12000017,All Adults,23,Highland,2018/19
+2019-03-31,Male,95 and Older,S12000018,All Adults,6,Inverclyde,2018/19
+2019-03-31,Male,95 and Older,S12000020,All Adults,6,Moray,2018/19
+2019-03-31,Male,95 and Older,S12000021,All Adults,8,North Ayrshire,2018/19
+2019-03-31,Male,95 and Older,S12000026,All Adults,11,Scottish Borders,2018/19
+2019-03-31,Male,95 and Older,S12000028,All Adults,23,South Ayrshire,2018/19
+2019-03-31,Male,95 and Older,S12000029,All Adults,31,South Lanarkshire,2018/19
+2019-03-31,Male,95 and Older,S12000030,All Adults,7,Stirling,2018/19
+2019-03-31,Male,95 and Older,S12000033,All Adults,18,Aberdeen City,2018/19
+2019-03-31,Male,95 and Older,S12000034,All Adults,30,Aberdeenshire,2018/19
+2019-03-31,Male,95 and Older,S12000035,All Adults,8,Argyll and Bute,2018/19
+2019-03-31,Male,95 and Older,S12000036,All Adults,33,City of Edinburgh,2018/19
+2019-03-31,Male,95 and Older,S12000038,All Adults,16,Renfrewshire,2018/19
+2019-03-31,Male,95 and Older,S12000040,All Adults,9,West Lothian,2018/19
+2019-03-31,Male,95 and Older,S12000041,All Adults,16,Angus,2018/19
+2019-03-31,Male,95 and Older,S12000042,All Adults,17,Dundee City,2018/19
+2019-03-31,Male,95 and Older,S12000045,All Adults,12,East Dunbartonshire,2018/19
+2019-03-31,Male,95 and Older,S12000047,All Adults,47,Fife,2018/19
+2019-03-31,Male,95 and Older,S12000048,All Adults,27,Perth and Kinross,2018/19
+2019-03-31,Male,95 and Older,S12000049,All Adults,34,Glasgow City,2018/19
+2019-03-31,Male,95 and Older,S12000050,All Adults,10,North Lanarkshire,2018/19
+2019-03-31,Male,95 and Older,S92000003,All Adults,464,Scotland,2018/19
+2021-03-31,Female,18-64,S12000005,All Adults,39,Clackmannanshire,2020/21
+2021-03-31,Female,18-64,S12000006,All Adults,11,Dumfries and Galloway,2020/21
+2021-03-31,Female,18-64,S12000008,All Adults,28,East Ayrshire,2020/21
+2021-03-31,Female,18-64,S12000011,All Adults,46,East Renfrewshire,2020/21
+2021-03-31,Female,18-64,S12000013,All Adults,9,Na h-Eileanan Siar,2020/21
+2021-03-31,Female,18-64,S12000014,All Adults,35,Falkirk,2020/21
+2021-03-31,Female,18-64,S12000017,All Adults,108,Highland,2020/21
+2021-03-31,Female,18-64,S12000018,All Adults,28,Inverclyde,2020/21
+2021-03-31,Female,18-64,S12000019,All Adults,51,Midlothian,2020/21
+2021-03-31,Female,18-64,S12000021,All Adults,37,North Ayrshire,2020/21
+2021-03-31,Female,18-64,S12000026,All Adults,23,Scottish Borders,2020/21
+2021-03-31,Female,18-64,S12000028,All Adults,48,South Ayrshire,2020/21
+2021-03-31,Female,18-64,S12000029,All Adults,92,South Lanarkshire,2020/21
+2021-03-31,Female,18-64,S12000030,All Adults,44,Stirling,2020/21
+2021-03-31,Female,18-64,S12000033,All Adults,93,Aberdeen City,2020/21
+2021-03-31,Female,18-64,S12000034,All Adults,73,Aberdeenshire,2020/21
+2021-03-31,Female,18-64,S12000036,All Adults,61,City of Edinburgh,2020/21
+2021-03-31,Female,18-64,S12000038,All Adults,41,Renfrewshire,2020/21
+2021-03-31,Female,18-64,S12000040,All Adults,35,West Lothian,2020/21
+2021-03-31,Female,18-64,S12000041,All Adults,32,Angus,2020/21
+2021-03-31,Female,18-64,S12000042,All Adults,26,Dundee City,2020/21
+2021-03-31,Female,18-64,S12000045,All Adults,7,East Dunbartonshire,2020/21
+2021-03-31,Female,18-64,S12000047,All Adults,109,Fife,2020/21
+2021-03-31,Female,18-64,S12000048,All Adults,80,Perth and Kinross,2020/21
+2021-03-31,Female,18-64,S12000049,All Adults,200,Glasgow City,2020/21
+2021-03-31,Female,18-64,S12000050,All Adults,30,North Lanarkshire,2020/21
+2021-03-31,Female,18-64,S92000003,All Adults,1398,Scotland,2020/21
+2021-03-31,Female,65-74,S12000006,All Adults,59,Dumfries and Galloway,2020/21
+2021-03-31,Female,65-74,S12000008,All Adults,36,East Ayrshire,2020/21
+2021-03-31,Female,65-74,S12000011,All Adults,33,East Renfrewshire,2020/21
+2021-03-31,Female,65-74,S12000013,All Adults,13,Na h-Eileanan Siar,2020/21
+2021-03-31,Female,65-74,S12000014,All Adults,55,Falkirk,2020/21
+2021-03-31,Female,65-74,S12000017,All Adults,89,Highland,2020/21
+2021-03-31,Female,65-74,S12000018,All Adults,41,Inverclyde,2020/21
+2021-03-31,Female,65-74,S12000019,All Adults,35,Midlothian,2020/21
+2021-03-31,Female,65-74,S12000021,All Adults,57,North Ayrshire,2020/21
+2021-03-31,Female,65-74,S12000026,All Adults,33,Scottish Borders,2020/21
+2021-03-31,Female,65-74,S12000028,All Adults,58,South Ayrshire,2020/21
+2021-03-31,Female,65-74,S12000029,All Adults,120,South Lanarkshire,2020/21
+2021-03-31,Female,65-74,S12000030,All Adults,34,Stirling,2020/21
+2021-03-31,Female,65-74,S12000033,All Adults,82,Aberdeen City,2020/21
+2021-03-31,Female,65-74,S12000034,All Adults,88,Aberdeenshire,2020/21
+2021-03-31,Female,65-74,S12000036,All Adults,110,City of Edinburgh,2020/21
+2021-03-31,Female,65-74,S12000038,All Adults,71,Renfrewshire,2020/21
+2021-03-31,Female,65-74,S12000039,All Adults,35,West Dunbartonshire,2020/21
+2021-03-31,Female,65-74,S12000040,All Adults,77,West Lothian,2020/21
+2021-03-31,Female,65-74,S12000041,All Adults,55,Angus,2020/21
+2021-03-31,Female,65-74,S12000042,All Adults,59,Dundee City,2020/21
+2021-03-31,Female,65-74,S12000045,All Adults,27,East Dunbartonshire,2020/21
+2021-03-31,Female,65-74,S12000047,All Adults,191,Fife,2020/21
+2021-03-31,Female,65-74,S12000048,All Adults,56,Perth and Kinross,2020/21
+2021-03-31,Female,65-74,S12000049,All Adults,249,Glasgow City,2020/21
+2021-03-31,Female,65-74,S12000050,All Adults,98,North Lanarkshire,2020/21
+2021-03-31,Female,65-74,S92000003,All Adults,1964,Scotland,2020/21
+2021-03-31,Female,75-84,S12000005,All Adults,45,Clackmannanshire,2020/21
+2021-03-31,Female,75-84,S12000006,All Adults,216,Dumfries and Galloway,2020/21
+2021-03-31,Female,75-84,S12000008,All Adults,159,East Ayrshire,2020/21
+2021-03-31,Female,75-84,S12000010,All Adults,117,East Lothian,2020/21
+2021-03-31,Female,75-84,S12000011,All Adults,118,East Renfrewshire,2020/21
+2021-03-31,Female,75-84,S12000013,All Adults,41,Na h-Eileanan Siar,2020/21
+2021-03-31,Female,75-84,S12000014,All Adults,213,Falkirk,2020/21
+2021-03-31,Female,75-84,S12000017,All Adults,280,Highland,2020/21
+2021-03-31,Female,75-84,S12000018,All Adults,130,Inverclyde,2020/21
+2021-03-31,Female,75-84,S12000019,All Adults,85,Midlothian,2020/21
+2021-03-31,Female,75-84,S12000020,All Adults,111,Moray,2020/21
+2021-03-31,Female,75-84,S12000021,All Adults,195,North Ayrshire,2020/21
+2021-03-31,Female,75-84,S12000023,All Adults,15,Orkney Islands,2020/21
+2021-03-31,Female,75-84,S12000026,All Adults,105,Scottish Borders,2020/21
+2021-03-31,Female,75-84,S12000027,All Adults,12,Shetland Islands,2020/21
+2021-03-31,Female,75-84,S12000028,All Adults,192,South Ayrshire,2020/21
+2021-03-31,Female,75-84,S12000029,All Adults,370,South Lanarkshire,2020/21
+2021-03-31,Female,75-84,S12000033,All Adults,217,Aberdeen City,2020/21
+2021-03-31,Female,75-84,S12000034,All Adults,246,Aberdeenshire,2020/21
+2021-03-31,Female,75-84,S12000035,All Adults,89,Argyll and Bute,2020/21
+2021-03-31,Female,75-84,S12000036,All Adults,476,City of Edinburgh,2020/21
+2021-03-31,Female,75-84,S12000038,All Adults,206,Renfrewshire,2020/21
+2021-03-31,Female,75-84,S12000039,All Adults,137,West Dunbartonshire,2020/21
+2021-03-31,Female,75-84,S12000040,All Adults,203,West Lothian,2020/21
+2021-03-31,Female,75-84,S12000041,All Adults,162,Angus,2020/21
+2021-03-31,Female,75-84,S12000042,All Adults,189,Dundee City,2020/21
+2021-03-31,Female,75-84,S12000045,All Adults,136,East Dunbartonshire,2020/21
+2021-03-31,Female,75-84,S12000047,All Adults,468,Fife,2020/21
+2021-03-31,Female,75-84,S12000048,All Adults,209,Perth and Kinross,2020/21
+2021-03-31,Female,75-84,S12000049,All Adults,662,Glasgow City,2020/21
+2021-03-31,Female,75-84,S12000050,All Adults,328,North Lanarkshire,2020/21
+2021-03-31,Female,75-84,S92000003,All Adults,6192,Scotland,2020/21
+2021-03-31,Female,85-94,S12000005,All Adults,52,Clackmannanshire,2020/21
+2021-03-31,Female,85-94,S12000006,All Adults,299,Dumfries and Galloway,2020/21
+2021-03-31,Female,85-94,S12000008,All Adults,224,East Ayrshire,2020/21
+2021-03-31,Female,85-94,S12000010,All Adults,183,East Lothian,2020/21
+2021-03-31,Female,85-94,S12000011,All Adults,183,East Renfrewshire,2020/21
+2021-03-31,Female,85-94,S12000013,All Adults,73,Na h-Eileanan Siar,2020/21
+2021-03-31,Female,85-94,S12000014,All Adults,266,Falkirk,2020/21
+2021-03-31,Female,85-94,S12000017,All Adults,501,Highland,2020/21
+2021-03-31,Female,85-94,S12000018,All Adults,186,Inverclyde,2020/21
+2021-03-31,Female,85-94,S12000019,All Adults,112,Midlothian,2020/21
+2021-03-31,Female,85-94,S12000020,All Adults,152,Moray,2020/21
+2021-03-31,Female,85-94,S12000021,All Adults,224,North Ayrshire,2020/21
+2021-03-31,Female,85-94,S12000023,All Adults,46,Orkney Islands,2020/21
+2021-03-31,Female,85-94,S12000026,All Adults,213,Scottish Borders,2020/21
+2021-03-31,Female,85-94,S12000027,All Adults,28,Shetland Islands,2020/21
+2021-03-31,Female,85-94,S12000028,All Adults,278,South Ayrshire,2020/21
+2021-03-31,Female,85-94,S12000029,All Adults,586,South Lanarkshire,2020/21
+2021-03-31,Female,85-94,S12000030,All Adults,84,Stirling,2020/21
+2021-03-31,Female,85-94,S12000033,All Adults,396,Aberdeen City,2020/21
+2021-03-31,Female,85-94,S12000034,All Adults,497,Aberdeenshire,2020/21
+2021-03-31,Female,85-94,S12000035,All Adults,184,Argyll and Bute,2020/21
+2021-03-31,Female,85-94,S12000036,All Adults,894,City of Edinburgh,2020/21
+2021-03-31,Female,85-94,S12000038,All Adults,364,Renfrewshire,2020/21
+2021-03-31,Female,85-94,S12000039,All Adults,166,West Dunbartonshire,2020/21
+2021-03-31,Female,85-94,S12000040,All Adults,200,West Lothian,2020/21
+2021-03-31,Female,85-94,S12000041,All Adults,316,Angus,2020/21
+2021-03-31,Female,85-94,S12000042,All Adults,291,Dundee City,2020/21
+2021-03-31,Female,85-94,S12000045,All Adults,239,East Dunbartonshire,2020/21
+2021-03-31,Female,85-94,S12000047,All Adults,771,Fife,2020/21
+2021-03-31,Female,85-94,S12000048,All Adults,403,Perth and Kinross,2020/21
+2021-03-31,Female,85-94,S12000049,All Adults,947,Glasgow City,2020/21
+2021-03-31,Female,85-94,S12000050,All Adults,411,North Lanarkshire,2020/21
+2021-03-31,Female,85-94,S92000003,All Adults,9801,Scotland,2020/21
+2021-03-31,Female,95 and Older,S12000006,All Adults,88,Dumfries and Galloway,2020/21
+2021-03-31,Female,95 and Older,S12000008,All Adults,63,East Ayrshire,2020/21
+2021-03-31,Female,95 and Older,S12000010,All Adults,56,East Lothian,2020/21
+2021-03-31,Female,95 and Older,S12000011,All Adults,55,East Renfrewshire,2020/21
+2021-03-31,Female,95 and Older,S12000013,All Adults,11,Na h-Eileanan Siar,2020/21
+2021-03-31,Female,95 and Older,S12000014,All Adults,47,Falkirk,2020/21
+2021-03-31,Female,95 and Older,S12000017,All Adults,146,Highland,2020/21
+2021-03-31,Female,95 and Older,S12000018,All Adults,45,Inverclyde,2020/21
+2021-03-31,Female,95 and Older,S12000019,All Adults,16,Midlothian,2020/21
+2021-03-31,Female,95 and Older,S12000021,All Adults,46,North Ayrshire,2020/21
+2021-03-31,Female,95 and Older,S12000026,All Adults,67,Scottish Borders,2020/21
+2021-03-31,Female,95 and Older,S12000028,All Adults,86,South Ayrshire,2020/21
+2021-03-31,Female,95 and Older,S12000029,All Adults,145,South Lanarkshire,2020/21
+2021-03-31,Female,95 and Older,S12000033,All Adults,84,Aberdeen City,2020/21
+2021-03-31,Female,95 and Older,S12000034,All Adults,129,Aberdeenshire,2020/21
+2021-03-31,Female,95 and Older,S12000036,All Adults,222,City of Edinburgh,2020/21
+2021-03-31,Female,95 and Older,S12000038,All Adults,83,Renfrewshire,2020/21
+2021-03-31,Female,95 and Older,S12000040,All Adults,46,West Lothian,2020/21
+2021-03-31,Female,95 and Older,S12000041,All Adults,112,Angus,2020/21
+2021-03-31,Female,95 and Older,S12000042,All Adults,54,Dundee City,2020/21
+2021-03-31,Female,95 and Older,S12000045,All Adults,42,East Dunbartonshire,2020/21
+2021-03-31,Female,95 and Older,S12000047,All Adults,221,Fife,2020/21
+2021-03-31,Female,95 and Older,S12000048,All Adults,110,Perth and Kinross,2020/21
+2021-03-31,Female,95 and Older,S12000049,All Adults,266,Glasgow City,2020/21
+2021-03-31,Female,95 and Older,S12000050,All Adults,62,North Lanarkshire,2020/21
+2021-03-31,Female,95 and Older,S92000003,All Adults,2469,Scotland,2020/21
+2021-03-31,Male,18-64,S12000005,All Adults,47,Clackmannanshire,2020/21
+2021-03-31,Male,18-64,S12000006,All Adults,49,Dumfries and Galloway,2020/21
+2021-03-31,Male,18-64,S12000008,All Adults,44,East Ayrshire,2020/21
+2021-03-31,Male,18-64,S12000011,All Adults,63,East Renfrewshire,2020/21
+2021-03-31,Male,18-64,S12000013,All Adults,5,Na h-Eileanan Siar,2020/21
+2021-03-31,Male,18-64,S12000014,All Adults,43,Falkirk,2020/21
+2021-03-31,Male,18-64,S12000017,All Adults,115,Highland,2020/21
+2021-03-31,Male,18-64,S12000018,All Adults,31,Inverclyde,2020/21
+2021-03-31,Male,18-64,S12000019,All Adults,26,Midlothian,2020/21
+2021-03-31,Male,18-64,S12000021,All Adults,49,North Ayrshire,2020/21
+2021-03-31,Male,18-64,S12000026,All Adults,35,Scottish Borders,2020/21
+2021-03-31,Male,18-64,S12000028,All Adults,42,South Ayrshire,2020/21
+2021-03-31,Male,18-64,S12000029,All Adults,179,South Lanarkshire,2020/21
+2021-03-31,Male,18-64,S12000030,All Adults,105,Stirling,2020/21
+2021-03-31,Male,18-64,S12000033,All Adults,108,Aberdeen City,2020/21
+2021-03-31,Male,18-64,S12000034,All Adults,79,Aberdeenshire,2020/21
+2021-03-31,Male,18-64,S12000036,All Adults,73,City of Edinburgh,2020/21
+2021-03-31,Male,18-64,S12000038,All Adults,56,Renfrewshire,2020/21
+2021-03-31,Male,18-64,S12000040,All Adults,21,West Lothian,2020/21
+2021-03-31,Male,18-64,S12000041,All Adults,33,Angus,2020/21
+2021-03-31,Male,18-64,S12000042,All Adults,26,Dundee City,2020/21
+2021-03-31,Male,18-64,S12000045,All Adults,10,East Dunbartonshire,2020/21
+2021-03-31,Male,18-64,S12000047,All Adults,109,Fife,2020/21
+2021-03-31,Male,18-64,S12000048,All Adults,120,Perth and Kinross,2020/21
+2021-03-31,Male,18-64,S12000049,All Adults,301,Glasgow City,2020/21
+2021-03-31,Male,18-64,S12000050,All Adults,84,North Lanarkshire,2020/21
+2021-03-31,Male,18-64,S92000003,All Adults,1863,Scotland,2020/21
+2021-03-31,Male,65-74,S12000006,All Adults,59,Dumfries and Galloway,2020/21
+2021-03-31,Male,65-74,S12000008,All Adults,53,East Ayrshire,2020/21
+2021-03-31,Male,65-74,S12000011,All Adults,33,East Renfrewshire,2020/21
+2021-03-31,Male,65-74,S12000013,All Adults,7,Na h-Eileanan Siar,2020/21
+2021-03-31,Male,65-74,S12000014,All Adults,35,Falkirk,2020/21
+2021-03-31,Male,65-74,S12000017,All Adults,93,Highland,2020/21
+2021-03-31,Male,65-74,S12000018,All Adults,29,Inverclyde,2020/21
+2021-03-31,Male,65-74,S12000019,All Adults,32,Midlothian,2020/21
+2021-03-31,Male,65-74,S12000021,All Adults,63,North Ayrshire,2020/21
+2021-03-31,Male,65-74,S12000026,All Adults,15,Scottish Borders,2020/21
+2021-03-31,Male,65-74,S12000028,All Adults,42,South Ayrshire,2020/21
+2021-03-31,Male,65-74,S12000029,All Adults,147,South Lanarkshire,2020/21
+2021-03-31,Male,65-74,S12000030,All Adults,44,Stirling,2020/21
+2021-03-31,Male,65-74,S12000033,All Adults,67,Aberdeen City,2020/21
+2021-03-31,Male,65-74,S12000034,All Adults,74,Aberdeenshire,2020/21
+2021-03-31,Male,65-74,S12000036,All Adults,104,City of Edinburgh,2020/21
+2021-03-31,Male,65-74,S12000038,All Adults,67,Renfrewshire,2020/21
+2021-03-31,Male,65-74,S12000039,All Adults,22,West Dunbartonshire,2020/21
+2021-03-31,Male,65-74,S12000040,All Adults,39,West Lothian,2020/21
+2021-03-31,Male,65-74,S12000041,All Adults,33,Angus,2020/21
+2021-03-31,Male,65-74,S12000042,All Adults,42,Dundee City,2020/21
+2021-03-31,Male,65-74,S12000045,All Adults,27,East Dunbartonshire,2020/21
+2021-03-31,Male,65-74,S12000047,All Adults,125,Fife,2020/21
+2021-03-31,Male,65-74,S12000048,All Adults,55,Perth and Kinross,2020/21
+2021-03-31,Male,65-74,S12000049,All Adults,269,Glasgow City,2020/21
+2021-03-31,Male,65-74,S12000050,All Adults,98,North Lanarkshire,2020/21
+2021-03-31,Male,65-74,S92000003,All Adults,1753,Scotland,2020/21
+2021-03-31,Male,75-84,S12000005,All Adults,34,Clackmannanshire,2020/21
+2021-03-31,Male,75-84,S12000006,All Adults,95,Dumfries and Galloway,2020/21
+2021-03-31,Male,75-84,S12000008,All Adults,80,East Ayrshire,2020/21
+2021-03-31,Male,75-84,S12000010,All Adults,62,East Lothian,2020/21
+2021-03-31,Male,75-84,S12000011,All Adults,37,East Renfrewshire,2020/21
+2021-03-31,Male,75-84,S12000013,All Adults,29,Na h-Eileanan Siar,2020/21
+2021-03-31,Male,75-84,S12000014,All Adults,92,Falkirk,2020/21
+2021-03-31,Male,75-84,S12000017,All Adults,169,Highland,2020/21
+2021-03-31,Male,75-84,S12000018,All Adults,69,Inverclyde,2020/21
+2021-03-31,Male,75-84,S12000019,All Adults,40,Midlothian,2020/21
+2021-03-31,Male,75-84,S12000020,All Adults,65,Moray,2020/21
+2021-03-31,Male,75-84,S12000021,All Adults,91,North Ayrshire,2020/21
+2021-03-31,Male,75-84,S12000023,All Adults,11,Orkney Islands,2020/21
+2021-03-31,Male,75-84,S12000026,All Adults,50,Scottish Borders,2020/21
+2021-03-31,Male,75-84,S12000027,All Adults,10,Shetland Islands,2020/21
+2021-03-31,Male,75-84,S12000028,All Adults,90,South Ayrshire,2020/21
+2021-03-31,Male,75-84,S12000029,All Adults,186,South Lanarkshire,2020/21
+2021-03-31,Male,75-84,S12000033,All Adults,101,Aberdeen City,2020/21
+2021-03-31,Male,75-84,S12000034,All Adults,144,Aberdeenshire,2020/21
+2021-03-31,Male,75-84,S12000035,All Adults,50,Argyll and Bute,2020/21
+2021-03-31,Male,75-84,S12000036,All Adults,227,City of Edinburgh,2020/21
+2021-03-31,Male,75-84,S12000038,All Adults,133,Renfrewshire,2020/21
+2021-03-31,Male,75-84,S12000039,All Adults,40,West Dunbartonshire,2020/21
+2021-03-31,Male,75-84,S12000040,All Adults,95,West Lothian,2020/21
+2021-03-31,Male,75-84,S12000041,All Adults,68,Angus,2020/21
+2021-03-31,Male,75-84,S12000042,All Adults,89,Dundee City,2020/21
+2021-03-31,Male,75-84,S12000045,All Adults,49,East Dunbartonshire,2020/21
+2021-03-31,Male,75-84,S12000047,All Adults,239,Fife,2020/21
+2021-03-31,Male,75-84,S12000048,All Adults,101,Perth and Kinross,2020/21
+2021-03-31,Male,75-84,S12000049,All Adults,407,Glasgow City,2020/21
+2021-03-31,Male,75-84,S12000050,All Adults,129,North Lanarkshire,2020/21
+2021-03-31,Male,75-84,S92000003,All Adults,3117,Scotland,2020/21
+2021-03-31,Male,85-94,S12000005,All Adults,20,Clackmannanshire,2020/21
+2021-03-31,Male,85-94,S12000006,All Adults,95,Dumfries and Galloway,2020/21
+2021-03-31,Male,85-94,S12000008,All Adults,59,East Ayrshire,2020/21
+2021-03-31,Male,85-94,S12000010,All Adults,72,East Lothian,2020/21
+2021-03-31,Male,85-94,S12000011,All Adults,39,East Renfrewshire,2020/21
+2021-03-31,Male,85-94,S12000013,All Adults,14,Na h-Eileanan Siar,2020/21
+2021-03-31,Male,85-94,S12000014,All Adults,83,Falkirk,2020/21
+2021-03-31,Male,85-94,S12000017,All Adults,181,Highland,2020/21
+2021-03-31,Male,85-94,S12000018,All Adults,50,Inverclyde,2020/21
+2021-03-31,Male,85-94,S12000019,All Adults,38,Midlothian,2020/21
+2021-03-31,Male,85-94,S12000020,All Adults,67,Moray,2020/21
+2021-03-31,Male,85-94,S12000021,All Adults,60,North Ayrshire,2020/21
+2021-03-31,Male,85-94,S12000023,All Adults,9,Orkney Islands,2020/21
+2021-03-31,Male,85-94,S12000026,All Adults,51,Scottish Borders,2020/21
+2021-03-31,Male,85-94,S12000027,All Adults,17,Shetland Islands,2020/21
+2021-03-31,Male,85-94,S12000028,All Adults,88,South Ayrshire,2020/21
+2021-03-31,Male,85-94,S12000029,All Adults,162,South Lanarkshire,2020/21
+2021-03-31,Male,85-94,S12000030,All Adults,44,Stirling,2020/21
+2021-03-31,Male,85-94,S12000033,All Adults,92,Aberdeen City,2020/21
+2021-03-31,Male,85-94,S12000034,All Adults,185,Aberdeenshire,2020/21
+2021-03-31,Male,85-94,S12000035,All Adults,41,Argyll and Bute,2020/21
+2021-03-31,Male,85-94,S12000036,All Adults,282,City of Edinburgh,2020/21
+2021-03-31,Male,85-94,S12000038,All Adults,94,Renfrewshire,2020/21
+2021-03-31,Male,85-94,S12000039,All Adults,39,West Dunbartonshire,2020/21
+2021-03-31,Male,85-94,S12000040,All Adults,70,West Lothian,2020/21
+2021-03-31,Male,85-94,S12000041,All Adults,91,Angus,2020/21
+2021-03-31,Male,85-94,S12000042,All Adults,108,Dundee City,2020/21
+2021-03-31,Male,85-94,S12000045,All Adults,50,East Dunbartonshire,2020/21
+2021-03-31,Male,85-94,S12000047,All Adults,212,Fife,2020/21
+2021-03-31,Male,85-94,S12000048,All Adults,117,Perth and Kinross,2020/21
+2021-03-31,Male,85-94,S12000049,All Adults,254,Glasgow City,2020/21
+2021-03-31,Male,85-94,S12000050,All Adults,89,North Lanarkshire,2020/21
+2021-03-31,Male,85-94,S92000003,All Adults,2886,Scotland,2020/21
+2021-03-31,Male,95 and Older,S12000006,All Adults,10,Dumfries and Galloway,2020/21
+2021-03-31,Male,95 and Older,S12000008,All Adults,9,East Ayrshire,2020/21
+2021-03-31,Male,95 and Older,S12000010,All Adults,10,East Lothian,2020/21
+2021-03-31,Male,95 and Older,S12000011,All Adults,9,East Renfrewshire,2020/21
+2021-03-31,Male,95 and Older,S12000013,All Adults,0,Na h-Eileanan Siar,2020/21
+2021-03-31,Male,95 and Older,S12000014,All Adults,9,Falkirk,2020/21
+2021-03-31,Male,95 and Older,S12000017,All Adults,31,Highland,2020/21
+2021-03-31,Male,95 and Older,S12000018,All Adults,6,Inverclyde,2020/21
+2021-03-31,Male,95 and Older,S12000019,All Adults,5,Midlothian,2020/21
+2021-03-31,Male,95 and Older,S12000021,All Adults,5,North Ayrshire,2020/21
+2021-03-31,Male,95 and Older,S12000026,All Adults,20,Scottish Borders,2020/21
+2021-03-31,Male,95 and Older,S12000028,All Adults,21,South Ayrshire,2020/21
+2021-03-31,Male,95 and Older,S12000029,All Adults,27,South Lanarkshire,2020/21
+2021-03-31,Male,95 and Older,S12000033,All Adults,7,Aberdeen City,2020/21
+2021-03-31,Male,95 and Older,S12000034,All Adults,30,Aberdeenshire,2020/21
+2021-03-31,Male,95 and Older,S12000036,All Adults,54,City of Edinburgh,2020/21
+2021-03-31,Male,95 and Older,S12000038,All Adults,12,Renfrewshire,2020/21
+2021-03-31,Male,95 and Older,S12000040,All Adults,9,West Lothian,2020/21
+2021-03-31,Male,95 and Older,S12000041,All Adults,9,Angus,2020/21
+2021-03-31,Male,95 and Older,S12000042,All Adults,13,Dundee City,2020/21
+2021-03-31,Male,95 and Older,S12000045,All Adults,11,East Dunbartonshire,2020/21
+2021-03-31,Male,95 and Older,S12000047,All Adults,23,Fife,2020/21
+2021-03-31,Male,95 and Older,S12000048,All Adults,22,Perth and Kinross,2020/21
+2021-03-31,Male,95 and Older,S12000049,All Adults,40,Glasgow City,2020/21
+2021-03-31,Male,95 and Older,S12000050,All Adults,9,North Lanarkshire,2020/21
+2021-03-31,Male,95 and Older,S92000003,All Adults,420,Scotland,2020/21
+2022-03-31,Female,18-64,S12000005,All Adults,44,Clackmannanshire,2021/22
+2022-03-31,Female,18-64,S12000006,All Adults,15,Dumfries and Galloway,2021/22
+2022-03-31,Female,18-64,S12000008,All Adults,33,East Ayrshire,2021/22
+2022-03-31,Female,18-64,S12000010,All Adults,0,East Lothian,2021/22
+2022-03-31,Female,18-64,S12000011,All Adults,7,East Renfrewshire,2021/22
+2022-03-31,Female,18-64,S12000014,All Adults,52,Falkirk,2021/22
+2022-03-31,Female,18-64,S12000017,All Adults,102,Highland,2021/22
+2022-03-31,Female,18-64,S12000018,All Adults,37,Inverclyde,2021/22
+2022-03-31,Female,18-64,S12000019,All Adults,38,Midlothian,2021/22
+2022-03-31,Female,18-64,S12000020,All Adults,9,Moray,2021/22
+2022-03-31,Female,18-64,S12000021,All Adults,27,North Ayrshire,2021/22
+2022-03-31,Female,18-64,S12000026,All Adults,28,Scottish Borders,2021/22
+2022-03-31,Female,18-64,S12000028,All Adults,33,South Ayrshire,2021/22
+2022-03-31,Female,18-64,S12000029,All Adults,77,South Lanarkshire,2021/22
+2022-03-31,Female,18-64,S12000030,All Adults,42,Stirling,2021/22
+2022-03-31,Female,18-64,S12000033,All Adults,112,Aberdeen City,2021/22
+2022-03-31,Female,18-64,S12000034,All Adults,74,Aberdeenshire,2021/22
+2022-03-31,Female,18-64,S12000036,All Adults,77,City of Edinburgh,2021/22
+2022-03-31,Female,18-64,S12000038,All Adults,46,Renfrewshire,2021/22
+2022-03-31,Female,18-64,S12000040,All Adults,32,West Lothian,2021/22
+2022-03-31,Female,18-64,S12000041,All Adults,40,Angus,2021/22
+2022-03-31,Female,18-64,S12000042,All Adults,13,Dundee City,2021/22
+2022-03-31,Female,18-64,S12000045,All Adults,8,East Dunbartonshire,2021/22
+2022-03-31,Female,18-64,S12000047,All Adults,118,Fife,2021/22
+2022-03-31,Female,18-64,S12000048,All Adults,61,Perth and Kinross,2021/22
+2022-03-31,Female,18-64,S12000049,All Adults,213,Glasgow City,2021/22
+2022-03-31,Female,18-64,S12000050,All Adults,28,North Lanarkshire,2021/22
+2022-03-31,Female,18-64,S92000003,All Adults,1406,Scotland,2021/22
+2022-03-31,Female,65-74,S12000005,All Adults,16,Clackmannanshire,2021/22
+2022-03-31,Female,65-74,S12000006,All Adults,41,Dumfries and Galloway,2021/22
+2022-03-31,Female,65-74,S12000008,All Adults,39,East Ayrshire,2021/22
+2022-03-31,Female,65-74,S12000010,All Adults,29,East Lothian,2021/22
+2022-03-31,Female,65-74,S12000011,All Adults,15,East Renfrewshire,2021/22
+2022-03-31,Female,65-74,S12000013,All Adults,8,Na h-Eileanan Siar,2021/22
+2022-03-31,Female,65-74,S12000014,All Adults,51,Falkirk,2021/22
+2022-03-31,Female,65-74,S12000017,All Adults,83,Highland,2021/22
+2022-03-31,Female,65-74,S12000019,All Adults,44,Midlothian,2021/22
+2022-03-31,Female,65-74,S12000020,All Adults,31,Moray,2021/22
+2022-03-31,Female,65-74,S12000021,All Adults,43,North Ayrshire,2021/22
+2022-03-31,Female,65-74,S12000026,All Adults,22,Scottish Borders,2021/22
+2022-03-31,Female,65-74,S12000027,All Adults,6,Shetland Islands,2021/22
+2022-03-31,Female,65-74,S12000028,All Adults,48,South Ayrshire,2021/22
+2022-03-31,Female,65-74,S12000029,All Adults,122,South Lanarkshire,2021/22
+2022-03-31,Female,65-74,S12000030,All Adults,30,Stirling,2021/22
+2022-03-31,Female,65-74,S12000033,All Adults,89,Aberdeen City,2021/22
+2022-03-31,Female,65-74,S12000034,All Adults,91,Aberdeenshire,2021/22
+2022-03-31,Female,65-74,S12000036,All Adults,113,City of Edinburgh,2021/22
+2022-03-31,Female,65-74,S12000038,All Adults,76,Renfrewshire,2021/22
+2022-03-31,Female,65-74,S12000039,All Adults,36,West Dunbartonshire,2021/22
+2022-03-31,Female,65-74,S12000040,All Adults,54,West Lothian,2021/22
+2022-03-31,Female,65-74,S12000041,All Adults,48,Angus,2021/22
+2022-03-31,Female,65-74,S12000042,All Adults,55,Dundee City,2021/22
+2022-03-31,Female,65-74,S12000045,All Adults,30,East Dunbartonshire,2021/22
+2022-03-31,Female,65-74,S12000047,All Adults,168,Fife,2021/22
+2022-03-31,Female,65-74,S12000048,All Adults,70,Perth and Kinross,2021/22
+2022-03-31,Female,65-74,S12000049,All Adults,261,Glasgow City,2021/22
+2022-03-31,Female,65-74,S12000050,All Adults,91,North Lanarkshire,2021/22
+2022-03-31,Female,65-74,S92000003,All Adults,1873,Scotland,2021/22
+2022-03-31,Female,75-84,S12000005,All Adults,49,Clackmannanshire,2021/22
+2022-03-31,Female,75-84,S12000006,All Adults,177,Dumfries and Galloway,2021/22
+2022-03-31,Female,75-84,S12000008,All Adults,182,East Ayrshire,2021/22
+2022-03-31,Female,75-84,S12000010,All Adults,98,East Lothian,2021/22
+2022-03-31,Female,75-84,S12000011,All Adults,112,East Renfrewshire,2021/22
+2022-03-31,Female,75-84,S12000013,All Adults,39,Na h-Eileanan Siar,2021/22
+2022-03-31,Female,75-84,S12000014,All Adults,202,Falkirk,2021/22
+2022-03-31,Female,75-84,S12000017,All Adults,314,Highland,2021/22
+2022-03-31,Female,75-84,S12000018,All Adults,131,Inverclyde,2021/22
+2022-03-31,Female,75-84,S12000019,All Adults,89,Midlothian,2021/22
+2022-03-31,Female,75-84,S12000020,All Adults,121,Moray,2021/22
+2022-03-31,Female,75-84,S12000021,All Adults,184,North Ayrshire,2021/22
+2022-03-31,Female,75-84,S12000023,All Adults,16,Orkney Islands,2021/22
+2022-03-31,Female,75-84,S12000026,All Adults,108,Scottish Borders,2021/22
+2022-03-31,Female,75-84,S12000027,All Adults,14,Shetland Islands,2021/22
+2022-03-31,Female,75-84,S12000028,All Adults,177,South Ayrshire,2021/22
+2022-03-31,Female,75-84,S12000029,All Adults,410,South Lanarkshire,2021/22
+2022-03-31,Female,75-84,S12000030,All Adults,58,Stirling,2021/22
+2022-03-31,Female,75-84,S12000033,All Adults,234,Aberdeen City,2021/22
+2022-03-31,Female,75-84,S12000034,All Adults,310,Aberdeenshire,2021/22
+2022-03-31,Female,75-84,S12000035,All Adults,84,Argyll and Bute,2021/22
+2022-03-31,Female,75-84,S12000036,All Adults,455,City of Edinburgh,2021/22
+2022-03-31,Female,75-84,S12000038,All Adults,235,Renfrewshire,2021/22
+2022-03-31,Female,75-84,S12000039,All Adults,135,West Dunbartonshire,2021/22
+2022-03-31,Female,75-84,S12000040,All Adults,214,West Lothian,2021/22
+2022-03-31,Female,75-84,S12000041,All Adults,158,Angus,2021/22
+2022-03-31,Female,75-84,S12000042,All Adults,188,Dundee City,2021/22
+2022-03-31,Female,75-84,S12000045,All Adults,142,East Dunbartonshire,2021/22
+2022-03-31,Female,75-84,S12000047,All Adults,485,Fife,2021/22
+2022-03-31,Female,75-84,S12000048,All Adults,195,Perth and Kinross,2021/22
+2022-03-31,Female,75-84,S12000049,All Adults,658,Glasgow City,2021/22
+2022-03-31,Female,75-84,S12000050,All Adults,348,North Lanarkshire,2021/22
+2022-03-31,Female,75-84,S92000003,All Adults,6297,Scotland,2021/22
+2022-03-31,Female,85-94,S12000006,All Adults,272,Dumfries and Galloway,2021/22
+2022-03-31,Female,85-94,S12000008,All Adults,196,East Ayrshire,2021/22
+2022-03-31,Female,85-94,S12000010,All Adults,184,East Lothian,2021/22
+2022-03-31,Female,85-94,S12000011,All Adults,179,East Renfrewshire,2021/22
+2022-03-31,Female,85-94,S12000013,All Adults,70,Na h-Eileanan Siar,2021/22
+2022-03-31,Female,85-94,S12000014,All Adults,254,Falkirk,2021/22
+2022-03-31,Female,85-94,S12000017,All Adults,503,Highland,2021/22
+2022-03-31,Female,85-94,S12000018,All Adults,165,Inverclyde,2021/22
+2022-03-31,Female,85-94,S12000019,All Adults,118,Midlothian,2021/22
+2022-03-31,Female,85-94,S12000020,All Adults,152,Moray,2021/22
+2022-03-31,Female,85-94,S12000021,All Adults,239,North Ayrshire,2021/22
+2022-03-31,Female,85-94,S12000023,All Adults,41,Orkney Islands,2021/22
+2022-03-31,Female,85-94,S12000026,All Adults,190,Scottish Borders,2021/22
+2022-03-31,Female,85-94,S12000027,All Adults,28,Shetland Islands,2021/22
+2022-03-31,Female,85-94,S12000028,All Adults,319,South Ayrshire,2021/22
+2022-03-31,Female,85-94,S12000029,All Adults,612,South Lanarkshire,2021/22
+2022-03-31,Female,85-94,S12000030,All Adults,106,Stirling,2021/22
+2022-03-31,Female,85-94,S12000033,All Adults,391,Aberdeen City,2021/22
+2022-03-31,Female,85-94,S12000034,All Adults,479,Aberdeenshire,2021/22
+2022-03-31,Female,85-94,S12000035,All Adults,168,Argyll and Bute,2021/22
+2022-03-31,Female,85-94,S12000036,All Adults,894,City of Edinburgh,2021/22
+2022-03-31,Female,85-94,S12000038,All Adults,331,Renfrewshire,2021/22
+2022-03-31,Female,85-94,S12000039,All Adults,168,West Dunbartonshire,2021/22
+2022-03-31,Female,85-94,S12000040,All Adults,241,West Lothian,2021/22
+2022-03-31,Female,85-94,S12000041,All Adults,345,Angus,2021/22
+2022-03-31,Female,85-94,S12000042,All Adults,311,Dundee City,2021/22
+2022-03-31,Female,85-94,S12000045,All Adults,248,East Dunbartonshire,2021/22
+2022-03-31,Female,85-94,S12000047,All Adults,818,Fife,2021/22
+2022-03-31,Female,85-94,S12000048,All Adults,382,Perth and Kinross,2021/22
+2022-03-31,Female,85-94,S12000049,All Adults,920,Glasgow City,2021/22
+2022-03-31,Female,85-94,S12000050,All Adults,426,North Lanarkshire,2021/22
+2022-03-31,Female,85-94,S92000003,All Adults,9789,Scotland,2021/22
+2022-03-31,Female,95 and Older,S12000006,All Adults,68,Dumfries and Galloway,2021/22
+2022-03-31,Female,95 and Older,S12000008,All Adults,49,East Ayrshire,2021/22
+2022-03-31,Female,95 and Older,S12000010,All Adults,71,East Lothian,2021/22
+2022-03-31,Female,95 and Older,S12000011,All Adults,51,East Renfrewshire,2021/22
+2022-03-31,Female,95 and Older,S12000014,All Adults,51,Falkirk,2021/22
+2022-03-31,Female,95 and Older,S12000017,All Adults,132,Highland,2021/22
+2022-03-31,Female,95 and Older,S12000019,All Adults,24,Midlothian,2021/22
+2022-03-31,Female,95 and Older,S12000020,All Adults,47,Moray,2021/22
+2022-03-31,Female,95 and Older,S12000021,All Adults,51,North Ayrshire,2021/22
+2022-03-31,Female,95 and Older,S12000026,All Adults,63,Scottish Borders,2021/22
+2022-03-31,Female,95 and Older,S12000028,All Adults,76,South Ayrshire,2021/22
+2022-03-31,Female,95 and Older,S12000029,All Adults,149,South Lanarkshire,2021/22
+2022-03-31,Female,95 and Older,S12000030,All Adults,31,Stirling,2021/22
+2022-03-31,Female,95 and Older,S12000033,All Adults,91,Aberdeen City,2021/22
+2022-03-31,Female,95 and Older,S12000034,All Adults,120,Aberdeenshire,2021/22
+2022-03-31,Female,95 and Older,S12000036,All Adults,231,City of Edinburgh,2021/22
+2022-03-31,Female,95 and Older,S12000038,All Adults,53,Renfrewshire,2021/22
+2022-03-31,Female,95 and Older,S12000040,All Adults,49,West Lothian,2021/22
+2022-03-31,Female,95 and Older,S12000041,All Adults,112,Angus,2021/22
+2022-03-31,Female,95 and Older,S12000042,All Adults,53,Dundee City,2021/22
+2022-03-31,Female,95 and Older,S12000045,All Adults,62,East Dunbartonshire,2021/22
+2022-03-31,Female,95 and Older,S12000047,All Adults,187,Fife,2021/22
+2022-03-31,Female,95 and Older,S12000048,All Adults,100,Perth and Kinross,2021/22
+2022-03-31,Female,95 and Older,S12000049,All Adults,203,Glasgow City,2021/22
+2022-03-31,Female,95 and Older,S12000050,All Adults,80,North Lanarkshire,2021/22
+2022-03-31,Female,95 and Older,S92000003,All Adults,2316,Scotland,2021/22
+2022-03-31,Male,18-64,S12000005,All Adults,61,Clackmannanshire,2021/22
+2022-03-31,Male,18-64,S12000006,All Adults,43,Dumfries and Galloway,2021/22
+2022-03-31,Male,18-64,S12000008,All Adults,47,East Ayrshire,2021/22
+2022-03-31,Male,18-64,S12000010,All Adults,5,East Lothian,2021/22
+2022-03-31,Male,18-64,S12000011,All Adults,0,East Renfrewshire,2021/22
+2022-03-31,Male,18-64,S12000014,All Adults,69,Falkirk,2021/22
+2022-03-31,Male,18-64,S12000017,All Adults,121,Highland,2021/22
+2022-03-31,Male,18-64,S12000018,All Adults,45,Inverclyde,2021/22
+2022-03-31,Male,18-64,S12000019,All Adults,30,Midlothian,2021/22
+2022-03-31,Male,18-64,S12000020,All Adults,7,Moray,2021/22
+2022-03-31,Male,18-64,S12000021,All Adults,47,North Ayrshire,2021/22
+2022-03-31,Male,18-64,S12000026,All Adults,39,Scottish Borders,2021/22
+2022-03-31,Male,18-64,S12000028,All Adults,36,South Ayrshire,2021/22
+2022-03-31,Male,18-64,S12000029,All Adults,155,South Lanarkshire,2021/22
+2022-03-31,Male,18-64,S12000030,All Adults,102,Stirling,2021/22
+2022-03-31,Male,18-64,S12000033,All Adults,122,Aberdeen City,2021/22
+2022-03-31,Male,18-64,S12000034,All Adults,86,Aberdeenshire,2021/22
+2022-03-31,Male,18-64,S12000036,All Adults,79,City of Edinburgh,2021/22
+2022-03-31,Male,18-64,S12000038,All Adults,50,Renfrewshire,2021/22
+2022-03-31,Male,18-64,S12000040,All Adults,13,West Lothian,2021/22
+2022-03-31,Male,18-64,S12000041,All Adults,37,Angus,2021/22
+2022-03-31,Male,18-64,S12000042,All Adults,14,Dundee City,2021/22
+2022-03-31,Male,18-64,S12000045,All Adults,6,East Dunbartonshire,2021/22
+2022-03-31,Male,18-64,S12000047,All Adults,131,Fife,2021/22
+2022-03-31,Male,18-64,S12000048,All Adults,96,Perth and Kinross,2021/22
+2022-03-31,Male,18-64,S12000049,All Adults,386,Glasgow City,2021/22
+2022-03-31,Male,18-64,S12000050,All Adults,59,North Lanarkshire,2021/22
+2022-03-31,Male,18-64,S92000003,All Adults,1920,Scotland,2021/22
+2022-03-31,Male,65-74,S12000005,All Adults,21,Clackmannanshire,2021/22
+2022-03-31,Male,65-74,S12000006,All Adults,45,Dumfries and Galloway,2021/22
+2022-03-31,Male,65-74,S12000008,All Adults,58,East Ayrshire,2021/22
+2022-03-31,Male,65-74,S12000010,All Adults,24,East Lothian,2021/22
+2022-03-31,Male,65-74,S12000011,All Adults,20,East Renfrewshire,2021/22
+2022-03-31,Male,65-74,S12000013,All Adults,14,Na h-Eileanan Siar,2021/22
+2022-03-31,Male,65-74,S12000014,All Adults,39,Falkirk,2021/22
+2022-03-31,Male,65-74,S12000017,All Adults,78,Highland,2021/22
+2022-03-31,Male,65-74,S12000019,All Adults,24,Midlothian,2021/22
+2022-03-31,Male,65-74,S12000020,All Adults,25,Moray,2021/22
+2022-03-31,Male,65-74,S12000021,All Adults,53,North Ayrshire,2021/22
+2022-03-31,Male,65-74,S12000026,All Adults,17,Scottish Borders,2021/22
+2022-03-31,Male,65-74,S12000027,All Adults,6,Shetland Islands,2021/22
+2022-03-31,Male,65-74,S12000028,All Adults,43,South Ayrshire,2021/22
+2022-03-31,Male,65-74,S12000029,All Adults,130,South Lanarkshire,2021/22
+2022-03-31,Male,65-74,S12000030,All Adults,31,Stirling,2021/22
+2022-03-31,Male,65-74,S12000033,All Adults,76,Aberdeen City,2021/22
+2022-03-31,Male,65-74,S12000034,All Adults,76,Aberdeenshire,2021/22
+2022-03-31,Male,65-74,S12000036,All Adults,109,City of Edinburgh,2021/22
+2022-03-31,Male,65-74,S12000038,All Adults,83,Renfrewshire,2021/22
+2022-03-31,Male,65-74,S12000039,All Adults,35,West Dunbartonshire,2021/22
+2022-03-31,Male,65-74,S12000040,All Adults,26,West Lothian,2021/22
+2022-03-31,Male,65-74,S12000041,All Adults,35,Angus,2021/22
+2022-03-31,Male,65-74,S12000042,All Adults,46,Dundee City,2021/22
+2022-03-31,Male,65-74,S12000045,All Adults,24,East Dunbartonshire,2021/22
+2022-03-31,Male,65-74,S12000047,All Adults,133,Fife,2021/22
+2022-03-31,Male,65-74,S12000048,All Adults,55,Perth and Kinross,2021/22
+2022-03-31,Male,65-74,S12000049,All Adults,272,Glasgow City,2021/22
+2022-03-31,Male,65-74,S12000050,All Adults,77,North Lanarkshire,2021/22
+2022-03-31,Male,65-74,S92000003,All Adults,1727,Scotland,2021/22
+2022-03-31,Male,75-84,S12000005,All Adults,28,Clackmannanshire,2021/22
+2022-03-31,Male,75-84,S12000006,All Adults,108,Dumfries and Galloway,2021/22
+2022-03-31,Male,75-84,S12000008,All Adults,89,East Ayrshire,2021/22
+2022-03-31,Male,75-84,S12000010,All Adults,55,East Lothian,2021/22
+2022-03-31,Male,75-84,S12000011,All Adults,51,East Renfrewshire,2021/22
+2022-03-31,Male,75-84,S12000013,All Adults,18,Na h-Eileanan Siar,2021/22
+2022-03-31,Male,75-84,S12000014,All Adults,78,Falkirk,2021/22
+2022-03-31,Male,75-84,S12000017,All Adults,165,Highland,2021/22
+2022-03-31,Male,75-84,S12000018,All Adults,73,Inverclyde,2021/22
+2022-03-31,Male,75-84,S12000019,All Adults,49,Midlothian,2021/22
+2022-03-31,Male,75-84,S12000020,All Adults,56,Moray,2021/22
+2022-03-31,Male,75-84,S12000021,All Adults,84,North Ayrshire,2021/22
+2022-03-31,Male,75-84,S12000023,All Adults,9,Orkney Islands,2021/22
+2022-03-31,Male,75-84,S12000026,All Adults,66,Scottish Borders,2021/22
+2022-03-31,Male,75-84,S12000027,All Adults,9,Shetland Islands,2021/22
+2022-03-31,Male,75-84,S12000028,All Adults,106,South Ayrshire,2021/22
+2022-03-31,Male,75-84,S12000029,All Adults,161,South Lanarkshire,2021/22
+2022-03-31,Male,75-84,S12000030,All Adults,55,Stirling,2021/22
+2022-03-31,Male,75-84,S12000033,All Adults,118,Aberdeen City,2021/22
+2022-03-31,Male,75-84,S12000034,All Adults,144,Aberdeenshire,2021/22
+2022-03-31,Male,75-84,S12000035,All Adults,43,Argyll and Bute,2021/22
+2022-03-31,Male,75-84,S12000036,All Adults,232,City of Edinburgh,2021/22
+2022-03-31,Male,75-84,S12000038,All Adults,135,Renfrewshire,2021/22
+2022-03-31,Male,75-84,S12000039,All Adults,57,West Dunbartonshire,2021/22
+2022-03-31,Male,75-84,S12000040,All Adults,86,West Lothian,2021/22
+2022-03-31,Male,75-84,S12000041,All Adults,66,Angus,2021/22
+2022-03-31,Male,75-84,S12000042,All Adults,98,Dundee City,2021/22
+2022-03-31,Male,75-84,S12000045,All Adults,55,East Dunbartonshire,2021/22
+2022-03-31,Male,75-84,S12000047,All Adults,227,Fife,2021/22
+2022-03-31,Male,75-84,S12000048,All Adults,117,Perth and Kinross,2021/22
+2022-03-31,Male,75-84,S12000049,All Adults,424,Glasgow City,2021/22
+2022-03-31,Male,75-84,S12000050,All Adults,158,North Lanarkshire,2021/22
+2022-03-31,Male,75-84,S92000003,All Adults,3219,Scotland,2021/22
+2022-03-31,Male,85-94,S12000006,All Adults,111,Dumfries and Galloway,2021/22
+2022-03-31,Male,85-94,S12000008,All Adults,58,East Ayrshire,2021/22
+2022-03-31,Male,85-94,S12000010,All Adults,76,East Lothian,2021/22
+2022-03-31,Male,85-94,S12000011,All Adults,48,East Renfrewshire,2021/22
+2022-03-31,Male,85-94,S12000013,All Adults,10,Na h-Eileanan Siar,2021/22
+2022-03-31,Male,85-94,S12000014,All Adults,87,Falkirk,2021/22
+2022-03-31,Male,85-94,S12000017,All Adults,177,Highland,2021/22
+2022-03-31,Male,85-94,S12000018,All Adults,58,Inverclyde,2021/22
+2022-03-31,Male,85-94,S12000019,All Adults,30,Midlothian,2021/22
+2022-03-31,Male,85-94,S12000020,All Adults,56,Moray,2021/22
+2022-03-31,Male,85-94,S12000021,All Adults,63,North Ayrshire,2021/22
+2022-03-31,Male,85-94,S12000023,All Adults,8,Orkney Islands,2021/22
+2022-03-31,Male,85-94,S12000026,All Adults,67,Scottish Borders,2021/22
+2022-03-31,Male,85-94,S12000027,All Adults,12,Shetland Islands,2021/22
+2022-03-31,Male,85-94,S12000028,All Adults,105,South Ayrshire,2021/22
+2022-03-31,Male,85-94,S12000029,All Adults,184,South Lanarkshire,2021/22
+2022-03-31,Male,85-94,S12000030,All Adults,43,Stirling,2021/22
+2022-03-31,Male,85-94,S12000033,All Adults,122,Aberdeen City,2021/22
+2022-03-31,Male,85-94,S12000034,All Adults,167,Aberdeenshire,2021/22
+2022-03-31,Male,85-94,S12000035,All Adults,50,Argyll and Bute,2021/22
+2022-03-31,Male,85-94,S12000036,All Adults,274,City of Edinburgh,2021/22
+2022-03-31,Male,85-94,S12000038,All Adults,108,Renfrewshire,2021/22
+2022-03-31,Male,85-94,S12000039,All Adults,49,West Dunbartonshire,2021/22
+2022-03-31,Male,85-94,S12000040,All Adults,69,West Lothian,2021/22
+2022-03-31,Male,85-94,S12000041,All Adults,86,Angus,2021/22
+2022-03-31,Male,85-94,S12000042,All Adults,98,Dundee City,2021/22
+2022-03-31,Male,85-94,S12000045,All Adults,77,East Dunbartonshire,2021/22
+2022-03-31,Male,85-94,S12000047,All Adults,229,Fife,2021/22
+2022-03-31,Male,85-94,S12000048,All Adults,118,Perth and Kinross,2021/22
+2022-03-31,Male,85-94,S12000049,All Adults,249,Glasgow City,2021/22
+2022-03-31,Male,85-94,S12000050,All Adults,118,North Lanarkshire,2021/22
+2022-03-31,Male,85-94,S92000003,All Adults,3019,Scotland,2021/22
+2022-03-31,Male,95 and Older,S12000006,All Adults,10,Dumfries and Galloway,2021/22
+2022-03-31,Male,95 and Older,S12000008,All Adults,12,East Ayrshire,2021/22
+2022-03-31,Male,95 and Older,S12000010,All Adults,18,East Lothian,2021/22
+2022-03-31,Male,95 and Older,S12000011,All Adults,5,East Renfrewshire,2021/22
+2022-03-31,Male,95 and Older,S12000014,All Adults,13,Falkirk,2021/22
+2022-03-31,Male,95 and Older,S12000017,All Adults,36,Highland,2021/22
+2022-03-31,Male,95 and Older,S12000019,All Adults,8,Midlothian,2021/22
+2022-03-31,Male,95 and Older,S12000020,All Adults,7,Moray,2021/22
+2022-03-31,Male,95 and Older,S12000021,All Adults,6,North Ayrshire,2021/22
+2022-03-31,Male,95 and Older,S12000026,All Adults,17,Scottish Borders,2021/22
+2022-03-31,Male,95 and Older,S12000028,All Adults,17,South Ayrshire,2021/22
+2022-03-31,Male,95 and Older,S12000029,All Adults,10,South Lanarkshire,2021/22
+2022-03-31,Male,95 and Older,S12000030,All Adults,9,Stirling,2021/22
+2022-03-31,Male,95 and Older,S12000033,All Adults,10,Aberdeen City,2021/22
+2022-03-31,Male,95 and Older,S12000034,All Adults,20,Aberdeenshire,2021/22
+2022-03-31,Male,95 and Older,S12000036,All Adults,43,City of Edinburgh,2021/22
+2022-03-31,Male,95 and Older,S12000038,All Adults,10,Renfrewshire,2021/22
+2022-03-31,Male,95 and Older,S12000040,All Adults,8,West Lothian,2021/22
+2022-03-31,Male,95 and Older,S12000041,All Adults,12,Angus,2021/22
+2022-03-31,Male,95 and Older,S12000042,All Adults,11,Dundee City,2021/22
+2022-03-31,Male,95 and Older,S12000045,All Adults,10,East Dunbartonshire,2021/22
+2022-03-31,Male,95 and Older,S12000047,All Adults,21,Fife,2021/22
+2022-03-31,Male,95 and Older,S12000048,All Adults,20,Perth and Kinross,2021/22
+2022-03-31,Male,95 and Older,S12000049,All Adults,38,Glasgow City,2021/22
+2022-03-31,Male,95 and Older,S12000050,All Adults,15,North Lanarkshire,2021/22
+2022-03-31,Male,95 and Older,S92000003,All Adults,405,Scotland,2021/22
+2023-03-31,Female,18-64,S12000005,All Adults,30,Clackmannanshire,2022/23
+2023-03-31,Female,18-64,S12000006,All Adults,13,Dumfries and Galloway,2022/23
+2023-03-31,Female,18-64,S12000008,All Adults,23,East Ayrshire,2022/23
+2023-03-31,Female,18-64,S12000013,All Adults,5,Na h-Eileanan Siar,2022/23
+2023-03-31,Female,18-64,S12000014,All Adults,57,Falkirk,2022/23
+2023-03-31,Female,18-64,S12000017,All Adults,110,Highland,2022/23
+2023-03-31,Female,18-64,S12000018,All Adults,29,Inverclyde,2022/23
+2023-03-31,Female,18-64,S12000019,All Adults,42,Midlothian,2022/23
+2023-03-31,Female,18-64,S12000020,All Adults,12,Moray,2022/23
+2023-03-31,Female,18-64,S12000021,All Adults,45,North Ayrshire,2022/23
+2023-03-31,Female,18-64,S12000026,All Adults,29,Scottish Borders,2022/23
+2023-03-31,Female,18-64,S12000028,All Adults,39,South Ayrshire,2022/23
+2023-03-31,Female,18-64,S12000029,All Adults,94,South Lanarkshire,2022/23
+2023-03-31,Female,18-64,S12000030,All Adults,40,Stirling,2022/23
+2023-03-31,Female,18-64,S12000033,All Adults,115,Aberdeen City,2022/23
+2023-03-31,Female,18-64,S12000034,All Adults,74,Aberdeenshire,2022/23
+2023-03-31,Female,18-64,S12000036,All Adults,60,City of Edinburgh,2022/23
+2023-03-31,Female,18-64,S12000038,All Adults,38,Renfrewshire,2022/23
+2023-03-31,Female,18-64,S12000039,All Adults,25,West Dunbartonshire,2022/23
+2023-03-31,Female,18-64,S12000040,All Adults,30,West Lothian,2022/23
+2023-03-31,Female,18-64,S12000041,All Adults,34,Angus,2022/23
+2023-03-31,Female,18-64,S12000042,All Adults,31,Dundee City,2022/23
+2023-03-31,Female,18-64,S12000045,All Adults,8,East Dunbartonshire,2022/23
+2023-03-31,Female,18-64,S12000047,All Adults,156,Fife,2022/23
+2023-03-31,Female,18-64,S12000048,All Adults,70,Perth and Kinross,2022/23
+2023-03-31,Female,18-64,S12000049,All Adults,207,Glasgow City,2022/23
+2023-03-31,Female,18-64,S12000050,All Adults,21,North Lanarkshire,2022/23
+2023-03-31,Female,18-64,S92000003,All Adults,1447,Scotland,2022/23
+2023-03-31,Female,65-74,S12000006,All Adults,56,Dumfries and Galloway,2022/23
+2023-03-31,Female,65-74,S12000008,All Adults,37,East Ayrshire,2022/23
+2023-03-31,Female,65-74,S12000013,All Adults,11,Na h-Eileanan Siar,2022/23
+2023-03-31,Female,65-74,S12000014,All Adults,56,Falkirk,2022/23
+2023-03-31,Female,65-74,S12000017,All Adults,93,Highland,2022/23
+2023-03-31,Female,65-74,S12000018,All Adults,32,Inverclyde,2022/23
+2023-03-31,Female,65-74,S12000019,All Adults,36,Midlothian,2022/23
+2023-03-31,Female,65-74,S12000020,All Adults,27,Moray,2022/23
+2023-03-31,Female,65-74,S12000021,All Adults,46,North Ayrshire,2022/23
+2023-03-31,Female,65-74,S12000026,All Adults,33,Scottish Borders,2022/23
+2023-03-31,Female,65-74,S12000028,All Adults,63,South Ayrshire,2022/23
+2023-03-31,Female,65-74,S12000029,All Adults,118,South Lanarkshire,2022/23
+2023-03-31,Female,65-74,S12000030,All Adults,38,Stirling,2022/23
+2023-03-31,Female,65-74,S12000033,All Adults,99,Aberdeen City,2022/23
+2023-03-31,Female,65-74,S12000034,All Adults,86,Aberdeenshire,2022/23
+2023-03-31,Female,65-74,S12000036,All Adults,105,City of Edinburgh,2022/23
+2023-03-31,Female,65-74,S12000038,All Adults,66,Renfrewshire,2022/23
+2023-03-31,Female,65-74,S12000039,All Adults,32,West Dunbartonshire,2022/23
+2023-03-31,Female,65-74,S12000040,All Adults,54,West Lothian,2022/23
+2023-03-31,Female,65-74,S12000041,All Adults,45,Angus,2022/23
+2023-03-31,Female,65-74,S12000042,All Adults,60,Dundee City,2022/23
+2023-03-31,Female,65-74,S12000045,All Adults,36,East Dunbartonshire,2022/23
+2023-03-31,Female,65-74,S12000047,All Adults,155,Fife,2022/23
+2023-03-31,Female,65-74,S12000048,All Adults,59,Perth and Kinross,2022/23
+2023-03-31,Female,65-74,S12000049,All Adults,244,Glasgow City,2022/23
+2023-03-31,Female,65-74,S12000050,All Adults,75,North Lanarkshire,2022/23
+2023-03-31,Female,65-74,S92000003,All Adults,1828,Scotland,2022/23
+2023-03-31,Female,75-84,S12000005,All Adults,48,Clackmannanshire,2022/23
+2023-03-31,Female,75-84,S12000006,All Adults,178,Dumfries and Galloway,2022/23
+2023-03-31,Female,75-84,S12000008,All Adults,147,East Ayrshire,2022/23
+2023-03-31,Female,75-84,S12000010,All Adults,113,East Lothian,2022/23
+2023-03-31,Female,75-84,S12000011,All Adults,110,East Renfrewshire,2022/23
+2023-03-31,Female,75-84,S12000013,All Adults,34,Na h-Eileanan Siar,2022/23
+2023-03-31,Female,75-84,S12000014,All Adults,186,Falkirk,2022/23
+2023-03-31,Female,75-84,S12000017,All Adults,303,Highland,2022/23
+2023-03-31,Female,75-84,S12000018,All Adults,138,Inverclyde,2022/23
+2023-03-31,Female,75-84,S12000019,All Adults,86,Midlothian,2022/23
+2023-03-31,Female,75-84,S12000020,All Adults,118,Moray,2022/23
+2023-03-31,Female,75-84,S12000021,All Adults,173,North Ayrshire,2022/23
+2023-03-31,Female,75-84,S12000023,All Adults,19,Orkney Islands,2022/23
+2023-03-31,Female,75-84,S12000026,All Adults,123,Scottish Borders,2022/23
+2023-03-31,Female,75-84,S12000027,All Adults,14,Shetland Islands,2022/23
+2023-03-31,Female,75-84,S12000028,All Adults,215,South Ayrshire,2022/23
+2023-03-31,Female,75-84,S12000029,All Adults,421,South Lanarkshire,2022/23
+2023-03-31,Female,75-84,S12000030,All Adults,91,Stirling,2022/23
+2023-03-31,Female,75-84,S12000033,All Adults,248,Aberdeen City,2022/23
+2023-03-31,Female,75-84,S12000034,All Adults,319,Aberdeenshire,2022/23
+2023-03-31,Female,75-84,S12000035,All Adults,94,Argyll and Bute,2022/23
+2023-03-31,Female,75-84,S12000036,All Adults,467,City of Edinburgh,2022/23
+2023-03-31,Female,75-84,S12000038,All Adults,247,Renfrewshire,2022/23
+2023-03-31,Female,75-84,S12000039,All Adults,134,West Dunbartonshire,2022/23
+2023-03-31,Female,75-84,S12000040,All Adults,221,West Lothian,2022/23
+2023-03-31,Female,75-84,S12000041,All Adults,158,Angus,2022/23
+2023-03-31,Female,75-84,S12000042,All Adults,186,Dundee City,2022/23
+2023-03-31,Female,75-84,S12000045,All Adults,168,East Dunbartonshire,2022/23
+2023-03-31,Female,75-84,S12000047,All Adults,476,Fife,2022/23
+2023-03-31,Female,75-84,S12000048,All Adults,210,Perth and Kinross,2022/23
+2023-03-31,Female,75-84,S12000049,All Adults,632,Glasgow City,2022/23
+2023-03-31,Female,75-84,S12000050,All Adults,330,North Lanarkshire,2022/23
+2023-03-31,Female,75-84,S92000003,All Adults,6409,Scotland,2022/23
+2023-03-31,Female,85-94,S12000005,All Adults,71,Clackmannanshire,2022/23
+2023-03-31,Female,85-94,S12000006,All Adults,321,Dumfries and Galloway,2022/23
+2023-03-31,Female,85-94,S12000008,All Adults,180,East Ayrshire,2022/23
+2023-03-31,Female,85-94,S12000010,All Adults,188,East Lothian,2022/23
+2023-03-31,Female,85-94,S12000011,All Adults,165,East Renfrewshire,2022/23
+2023-03-31,Female,85-94,S12000013,All Adults,74,Na h-Eileanan Siar,2022/23
+2023-03-31,Female,85-94,S12000014,All Adults,232,Falkirk,2022/23
+2023-03-31,Female,85-94,S12000017,All Adults,511,Highland,2022/23
+2023-03-31,Female,85-94,S12000018,All Adults,171,Inverclyde,2022/23
+2023-03-31,Female,85-94,S12000020,All Adults,153,Moray,2022/23
+2023-03-31,Female,85-94,S12000021,All Adults,221,North Ayrshire,2022/23
+2023-03-31,Female,85-94,S12000026,All Adults,213,Scottish Borders,2022/23
+2023-03-31,Female,85-94,S12000027,All Adults,30,Shetland Islands,2022/23
+2023-03-31,Female,85-94,S12000028,All Adults,327,South Ayrshire,2022/23
+2023-03-31,Female,85-94,S12000029,All Adults,608,South Lanarkshire,2022/23
+2023-03-31,Female,85-94,S12000030,All Adults,141,Stirling,2022/23
+2023-03-31,Female,85-94,S12000033,All Adults,409,Aberdeen City,2022/23
+2023-03-31,Female,85-94,S12000034,All Adults,490,Aberdeenshire,2022/23
+2023-03-31,Female,85-94,S12000035,All Adults,160,Argyll and Bute,2022/23
+2023-03-31,Female,85-94,S12000036,All Adults,930,City of Edinburgh,2022/23
+2023-03-31,Female,85-94,S12000038,All Adults,350,Renfrewshire,2022/23
+2023-03-31,Female,85-94,S12000039,All Adults,182,West Dunbartonshire,2022/23
+2023-03-31,Female,85-94,S12000040,All Adults,249,West Lothian,2022/23
+2023-03-31,Female,85-94,S12000041,All Adults,298,Angus,2022/23
+2023-03-31,Female,85-94,S12000042,All Adults,268,Dundee City,2022/23
+2023-03-31,Female,85-94,S12000045,All Adults,272,East Dunbartonshire,2022/23
+2023-03-31,Female,85-94,S12000047,All Adults,770,Fife,2022/23
+2023-03-31,Female,85-94,S12000048,All Adults,397,Perth and Kinross,2022/23
+2023-03-31,Female,85-94,S12000049,All Adults,968,Glasgow City,2022/23
+2023-03-31,Female,85-94,S12000050,All Adults,417,North Lanarkshire,2022/23
+2023-03-31,Female,85-94,S92000003,All Adults,9921,Scotland,2022/23
+2023-03-31,Female,95 and Older,S12000006,All Adults,56,Dumfries and Galloway,2022/23
+2023-03-31,Female,95 and Older,S12000008,All Adults,50,East Ayrshire,2022/23
+2023-03-31,Female,95 and Older,S12000013,All Adults,11,Na h-Eileanan Siar,2022/23
+2023-03-31,Female,95 and Older,S12000014,All Adults,44,Falkirk,2022/23
+2023-03-31,Female,95 and Older,S12000017,All Adults,118,Highland,2022/23
+2023-03-31,Female,95 and Older,S12000018,All Adults,36,Inverclyde,2022/23
+2023-03-31,Female,95 and Older,S12000020,All Adults,39,Moray,2022/23
+2023-03-31,Female,95 and Older,S12000021,All Adults,39,North Ayrshire,2022/23
+2023-03-31,Female,95 and Older,S12000026,All Adults,55,Scottish Borders,2022/23
+2023-03-31,Female,95 and Older,S12000028,All Adults,76,South Ayrshire,2022/23
+2023-03-31,Female,95 and Older,S12000029,All Adults,139,South Lanarkshire,2022/23
+2023-03-31,Female,95 and Older,S12000030,All Adults,32,Stirling,2022/23
+2023-03-31,Female,95 and Older,S12000033,All Adults,110,Aberdeen City,2022/23
+2023-03-31,Female,95 and Older,S12000034,All Adults,115,Aberdeenshire,2022/23
+2023-03-31,Female,95 and Older,S12000035,All Adults,19,Argyll and Bute,2022/23
+2023-03-31,Female,95 and Older,S12000036,All Adults,237,City of Edinburgh,2022/23
+2023-03-31,Female,95 and Older,S12000038,All Adults,75,Renfrewshire,2022/23
+2023-03-31,Female,95 and Older,S12000039,All Adults,28,West Dunbartonshire,2022/23
+2023-03-31,Female,95 and Older,S12000040,All Adults,43,West Lothian,2022/23
+2023-03-31,Female,95 and Older,S12000041,All Adults,101,Angus,2022/23
+2023-03-31,Female,95 and Older,S12000042,All Adults,47,Dundee City,2022/23
+2023-03-31,Female,95 and Older,S12000045,All Adults,51,East Dunbartonshire,2022/23
+2023-03-31,Female,95 and Older,S12000047,All Adults,155,Fife,2022/23
+2023-03-31,Female,95 and Older,S12000048,All Adults,96,Perth and Kinross,2022/23
+2023-03-31,Female,95 and Older,S12000049,All Adults,188,Glasgow City,2022/23
+2023-03-31,Female,95 and Older,S12000050,All Adults,77,North Lanarkshire,2022/23
+2023-03-31,Female,95 and Older,S92000003,All Adults,2214,Scotland,2022/23
+2023-03-31,Male,18-64,S12000005,All Adults,41,Clackmannanshire,2022/23
+2023-03-31,Male,18-64,S12000006,All Adults,39,Dumfries and Galloway,2022/23
+2023-03-31,Male,18-64,S12000008,All Adults,44,East Ayrshire,2022/23
+2023-03-31,Male,18-64,S12000013,All Adults,5,Na h-Eileanan Siar,2022/23
+2023-03-31,Male,18-64,S12000014,All Adults,97,Falkirk,2022/23
+2023-03-31,Male,18-64,S12000017,All Adults,128,Highland,2022/23
+2023-03-31,Male,18-64,S12000018,All Adults,28,Inverclyde,2022/23
+2023-03-31,Male,18-64,S12000019,All Adults,36,Midlothian,2022/23
+2023-03-31,Male,18-64,S12000020,All Adults,9,Moray,2022/23
+2023-03-31,Male,18-64,S12000021,All Adults,72,North Ayrshire,2022/23
+2023-03-31,Male,18-64,S12000026,All Adults,35,Scottish Borders,2022/23
+2023-03-31,Male,18-64,S12000028,All Adults,27,South Ayrshire,2022/23
+2023-03-31,Male,18-64,S12000029,All Adults,148,South Lanarkshire,2022/23
+2023-03-31,Male,18-64,S12000030,All Adults,97,Stirling,2022/23
+2023-03-31,Male,18-64,S12000033,All Adults,146,Aberdeen City,2022/23
+2023-03-31,Male,18-64,S12000034,All Adults,86,Aberdeenshire,2022/23
+2023-03-31,Male,18-64,S12000036,All Adults,57,City of Edinburgh,2022/23
+2023-03-31,Male,18-64,S12000038,All Adults,47,Renfrewshire,2022/23
+2023-03-31,Male,18-64,S12000039,All Adults,28,West Dunbartonshire,2022/23
+2023-03-31,Male,18-64,S12000040,All Adults,27,West Lothian,2022/23
+2023-03-31,Male,18-64,S12000041,All Adults,39,Angus,2022/23
+2023-03-31,Male,18-64,S12000042,All Adults,26,Dundee City,2022/23
+2023-03-31,Male,18-64,S12000045,All Adults,11,East Dunbartonshire,2022/23
+2023-03-31,Male,18-64,S12000047,All Adults,175,Fife,2022/23
+2023-03-31,Male,18-64,S12000048,All Adults,120,Perth and Kinross,2022/23
+2023-03-31,Male,18-64,S12000049,All Adults,382,Glasgow City,2022/23
+2023-03-31,Male,18-64,S12000050,All Adults,55,North Lanarkshire,2022/23
+2023-03-31,Male,18-64,S92000003,All Adults,2027,Scotland,2022/23
+2023-03-31,Male,65-74,S12000006,All Adults,46,Dumfries and Galloway,2022/23
+2023-03-31,Male,65-74,S12000008,All Adults,57,East Ayrshire,2022/23
+2023-03-31,Male,65-74,S12000013,All Adults,16,Na h-Eileanan Siar,2022/23
+2023-03-31,Male,65-74,S12000014,All Adults,40,Falkirk,2022/23
+2023-03-31,Male,65-74,S12000017,All Adults,88,Highland,2022/23
+2023-03-31,Male,65-74,S12000018,All Adults,45,Inverclyde,2022/23
+2023-03-31,Male,65-74,S12000019,All Adults,32,Midlothian,2022/23
+2023-03-31,Male,65-74,S12000020,All Adults,17,Moray,2022/23
+2023-03-31,Male,65-74,S12000021,All Adults,45,North Ayrshire,2022/23
+2023-03-31,Male,65-74,S12000026,All Adults,20,Scottish Borders,2022/23
+2023-03-31,Male,65-74,S12000028,All Adults,41,South Ayrshire,2022/23
+2023-03-31,Male,65-74,S12000029,All Adults,127,South Lanarkshire,2022/23
+2023-03-31,Male,65-74,S12000030,All Adults,35,Stirling,2022/23
+2023-03-31,Male,65-74,S12000033,All Adults,73,Aberdeen City,2022/23
+2023-03-31,Male,65-74,S12000034,All Adults,76,Aberdeenshire,2022/23
+2023-03-31,Male,65-74,S12000036,All Adults,106,City of Edinburgh,2022/23
+2023-03-31,Male,65-74,S12000038,All Adults,66,Renfrewshire,2022/23
+2023-03-31,Male,65-74,S12000039,All Adults,42,West Dunbartonshire,2022/23
+2023-03-31,Male,65-74,S12000040,All Adults,29,West Lothian,2022/23
+2023-03-31,Male,65-74,S12000041,All Adults,47,Angus,2022/23
+2023-03-31,Male,65-74,S12000042,All Adults,59,Dundee City,2022/23
+2023-03-31,Male,65-74,S12000045,All Adults,29,East Dunbartonshire,2022/23
+2023-03-31,Male,65-74,S12000047,All Adults,147,Fife,2022/23
+2023-03-31,Male,65-74,S12000048,All Adults,55,Perth and Kinross,2022/23
+2023-03-31,Male,65-74,S12000049,All Adults,313,Glasgow City,2022/23
+2023-03-31,Male,65-74,S12000050,All Adults,69,North Lanarkshire,2022/23
+2023-03-31,Male,65-74,S92000003,All Adults,1783,Scotland,2022/23
+2023-03-31,Male,75-84,S12000005,All Adults,27,Clackmannanshire,2022/23
+2023-03-31,Male,75-84,S12000006,All Adults,101,Dumfries and Galloway,2022/23
+2023-03-31,Male,75-84,S12000008,All Adults,111,East Ayrshire,2022/23
+2023-03-31,Male,75-84,S12000010,All Adults,70,East Lothian,2022/23
+2023-03-31,Male,75-84,S12000011,All Adults,44,East Renfrewshire,2022/23
+2023-03-31,Male,75-84,S12000013,All Adults,13,Na h-Eileanan Siar,2022/23
+2023-03-31,Male,75-84,S12000014,All Adults,67,Falkirk,2022/23
+2023-03-31,Male,75-84,S12000017,All Adults,192,Highland,2022/23
+2023-03-31,Male,75-84,S12000018,All Adults,81,Inverclyde,2022/23
+2023-03-31,Male,75-84,S12000019,All Adults,42,Midlothian,2022/23
+2023-03-31,Male,75-84,S12000020,All Adults,64,Moray,2022/23
+2023-03-31,Male,75-84,S12000021,All Adults,89,North Ayrshire,2022/23
+2023-03-31,Male,75-84,S12000023,All Adults,17,Orkney Islands,2022/23
+2023-03-31,Male,75-84,S12000026,All Adults,68,Scottish Borders,2022/23
+2023-03-31,Male,75-84,S12000027,All Adults,11,Shetland Islands,2022/23
+2023-03-31,Male,75-84,S12000028,All Adults,98,South Ayrshire,2022/23
+2023-03-31,Male,75-84,S12000029,All Adults,200,South Lanarkshire,2022/23
+2023-03-31,Male,75-84,S12000030,All Adults,59,Stirling,2022/23
+2023-03-31,Male,75-84,S12000033,All Adults,138,Aberdeen City,2022/23
+2023-03-31,Male,75-84,S12000034,All Adults,153,Aberdeenshire,2022/23
+2023-03-31,Male,75-84,S12000035,All Adults,39,Argyll and Bute,2022/23
+2023-03-31,Male,75-84,S12000036,All Adults,224,City of Edinburgh,2022/23
+2023-03-31,Male,75-84,S12000038,All Adults,138,Renfrewshire,2022/23
+2023-03-31,Male,75-84,S12000039,All Adults,73,West Dunbartonshire,2022/23
+2023-03-31,Male,75-84,S12000040,All Adults,104,West Lothian,2022/23
+2023-03-31,Male,75-84,S12000041,All Adults,74,Angus,2022/23
+2023-03-31,Male,75-84,S12000042,All Adults,90,Dundee City,2022/23
+2023-03-31,Male,75-84,S12000045,All Adults,58,East Dunbartonshire,2022/23
+2023-03-31,Male,75-84,S12000047,All Adults,259,Fife,2022/23
+2023-03-31,Male,75-84,S12000048,All Adults,102,Perth and Kinross,2022/23
+2023-03-31,Male,75-84,S12000049,All Adults,470,Glasgow City,2022/23
+2023-03-31,Male,75-84,S12000050,All Adults,181,North Lanarkshire,2022/23
+2023-03-31,Male,75-84,S92000003,All Adults,3453,Scotland,2022/23
+2023-03-31,Male,85-94,S12000005,All Adults,19,Clackmannanshire,2022/23
+2023-03-31,Male,85-94,S12000006,All Adults,123,Dumfries and Galloway,2022/23
+2023-03-31,Male,85-94,S12000008,All Adults,62,East Ayrshire,2022/23
+2023-03-31,Male,85-94,S12000010,All Adults,88,East Lothian,2022/23
+2023-03-31,Male,85-94,S12000011,All Adults,34,East Renfrewshire,2022/23
+2023-03-31,Male,85-94,S12000013,All Adults,14,Na h-Eileanan Siar,2022/23
+2023-03-31,Male,85-94,S12000014,All Adults,84,Falkirk,2022/23
+2023-03-31,Male,85-94,S12000017,All Adults,174,Highland,2022/23
+2023-03-31,Male,85-94,S12000018,All Adults,56,Inverclyde,2022/23
+2023-03-31,Male,85-94,S12000020,All Adults,61,Moray,2022/23
+2023-03-31,Male,85-94,S12000021,All Adults,67,North Ayrshire,2022/23
+2023-03-31,Male,85-94,S12000026,All Adults,64,Scottish Borders,2022/23
+2023-03-31,Male,85-94,S12000027,All Adults,8,Shetland Islands,2022/23
+2023-03-31,Male,85-94,S12000028,All Adults,122,South Ayrshire,2022/23
+2023-03-31,Male,85-94,S12000029,All Adults,165,South Lanarkshire,2022/23
+2023-03-31,Male,85-94,S12000030,All Adults,46,Stirling,2022/23
+2023-03-31,Male,85-94,S12000033,All Adults,134,Aberdeen City,2022/23
+2023-03-31,Male,85-94,S12000034,All Adults,192,Aberdeenshire,2022/23
+2023-03-31,Male,85-94,S12000035,All Adults,52,Argyll and Bute,2022/23
+2023-03-31,Male,85-94,S12000036,All Adults,302,City of Edinburgh,2022/23
+2023-03-31,Male,85-94,S12000038,All Adults,147,Renfrewshire,2022/23
+2023-03-31,Male,85-94,S12000039,All Adults,53,West Dunbartonshire,2022/23
+2023-03-31,Male,85-94,S12000040,All Adults,75,West Lothian,2022/23
+2023-03-31,Male,85-94,S12000041,All Adults,100,Angus,2022/23
+2023-03-31,Male,85-94,S12000042,All Adults,83,Dundee City,2022/23
+2023-03-31,Male,85-94,S12000045,All Adults,88,East Dunbartonshire,2022/23
+2023-03-31,Male,85-94,S12000047,All Adults,245,Fife,2022/23
+2023-03-31,Male,85-94,S12000048,All Adults,113,Perth and Kinross,2022/23
+2023-03-31,Male,85-94,S12000049,All Adults,274,Glasgow City,2022/23
+2023-03-31,Male,85-94,S12000050,All Adults,130,North Lanarkshire,2022/23
+2023-03-31,Male,85-94,S92000003,All Adults,3219,Scotland,2022/23
+2023-03-31,Male,95 and Older,S12000006,All Adults,10,Dumfries and Galloway,2022/23
+2023-03-31,Male,95 and Older,S12000008,All Adults,9,East Ayrshire,2022/23
+2023-03-31,Male,95 and Older,S12000013,All Adults,5,Na h-Eileanan Siar,2022/23
+2023-03-31,Male,95 and Older,S12000014,All Adults,11,Falkirk,2022/23
+2023-03-31,Male,95 and Older,S12000017,All Adults,23,Highland,2022/23
+2023-03-31,Male,95 and Older,S12000018,All Adults,0,Inverclyde,2022/23
+2023-03-31,Male,95 and Older,S12000020,All Adults,9,Moray,2022/23
+2023-03-31,Male,95 and Older,S12000021,All Adults,7,North Ayrshire,2022/23
+2023-03-31,Male,95 and Older,S12000026,All Adults,12,Scottish Borders,2022/23
+2023-03-31,Male,95 and Older,S12000028,All Adults,10,South Ayrshire,2022/23
+2023-03-31,Male,95 and Older,S12000029,All Adults,22,South Lanarkshire,2022/23
+2023-03-31,Male,95 and Older,S12000030,All Adults,10,Stirling,2022/23
+2023-03-31,Male,95 and Older,S12000033,All Adults,22,Aberdeen City,2022/23
+2023-03-31,Male,95 and Older,S12000034,All Adults,21,Aberdeenshire,2022/23
+2023-03-31,Male,95 and Older,S12000035,All Adults,11,Argyll and Bute,2022/23
+2023-03-31,Male,95 and Older,S12000036,All Adults,34,City of Edinburgh,2022/23
+2023-03-31,Male,95 and Older,S12000038,All Adults,26,Renfrewshire,2022/23
+2023-03-31,Male,95 and Older,S12000039,All Adults,0,West Dunbartonshire,2022/23
+2023-03-31,Male,95 and Older,S12000040,All Adults,6,West Lothian,2022/23
+2023-03-31,Male,95 and Older,S12000041,All Adults,16,Angus,2022/23
+2023-03-31,Male,95 and Older,S12000042,All Adults,9,Dundee City,2022/23
+2023-03-31,Male,95 and Older,S12000045,All Adults,11,East Dunbartonshire,2022/23
+2023-03-31,Male,95 and Older,S12000047,All Adults,28,Fife,2022/23
+2023-03-31,Male,95 and Older,S12000048,All Adults,24,Perth and Kinross,2022/23
+2023-03-31,Male,95 and Older,S12000049,All Adults,46,Glasgow City,2022/23
+2023-03-31,Male,95 and Older,S12000050,All Adults,11,North Lanarkshire,2022/23
+2023-03-31,Male,95 and Older,S92000003,All Adults,417,Scotland,2022/23
