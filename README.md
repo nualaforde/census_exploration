@@ -1,1 +1,1 @@
-A repo for wrangling the Scottish Care Home Census data and producing summary charts, using R programming language with Tidyverse packages and GGplot2.
+A repo for wrangling the Scottish Care Home Census data and producing summary charts, using R programming language with Tidyverse packages and GGplot2. Data was acquired from NHS Scotland Open Data at https://www.opendata.nhs.scot/dataset/care-home-census . Additional information on this data, including completeness can be found on this website.
